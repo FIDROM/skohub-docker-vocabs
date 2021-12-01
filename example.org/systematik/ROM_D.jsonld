@@ -3,15 +3,12 @@
   "type": "Concept",
   "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_D",
   "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_D",
-  "prefLabel": {
-    "en": "French_Literature"
-  },
   "narrower": [
     {
       "id": "https://example.org/systematik/ROM_D_1",
       "prefLabel": {
-        "en": "Bibliographies__Reference_Works_Collections",
-        "de": "Bibliographien_Nachschlagewerke"
+        "en": "Bibliographies, Reference Works Collections",
+        "de": "Bibliographien, Nachschlagewerke"
       }
     }
   ],

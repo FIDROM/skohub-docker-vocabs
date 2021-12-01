@@ -11,29 +11,29 @@
     {
       "id": "https://example.org/systematik/ROM_A_1",
       "prefLabel": {
-        "en": "Bibliographies__Reference_Works_Collections",
-        "de": "Bibliographien_Nachschlagewerke_Sammelwerke"
+        "en": "Bibliographies, Reference_Works, Collections",
+        "de": "Bibliographien, Nachschlagewerke, Sammelwerke"
       }
     },
     {
       "id": "https://example.org/systematik/ROM_A_6",
       "prefLabel": {
         "en": "History of Romance Linguistics, Methods",
-        "de": "Wissenschaftsgeschichte__Wissenschaftliches_Arbeiten__Methoden"
+        "de": "Wissenschaftsgeschichte, Wissenschaftliches Arbeiten, Methoden"
       }
     },
     {
       "id": "https://example.org/systematik/ROM_A_11",
       "prefLabel": {
-        "en": "General_Caracteristics_and_History",
-        "de": "Wesen_und_Geschichte"
+        "en": "General Caracteristics and History",
+        "de": "Wesen und Geschichte"
       }
     },
     {
       "id": "https://example.org/systematik/ROM_A_21",
       "prefLabel": {
-        "en": "Relations_to_other_languages_and_Translation",
-        "de": "Beziehungen_zu_anderen_Sprachen__Übersetzung"
+        "en": "Relations to other languages, Translation",
+        "de": "Beziehungen zu anderen Sprachen, Übersetzung"
       }
     },
     {
@@ -60,49 +60,49 @@
     {
       "id": "https://example.org/systematik/ROM_A_231",
       "prefLabel": {
-        "en": "Metrics_and_Rhythm",
-        "de": "Metrik__Rhythmus"
+        "en": "Metrics, Rhythm",
+        "de": "Metrik, Rhythmus"
       }
     },
     {
       "id": "https://example.org/systematik/ROM_A_236",
       "prefLabel": {
-        "en": "Language_Policy_and_Language_Maintenance",
-        "de": "Sprachpflege_Sprachpolitik"
+        "en": "Language Policy, Language Maintenance",
+        "de": "Sprachpflege, Sprachpolitik"
       }
     },
     {
       "id": "https://example.org/systematik/ROM_A_241",
       "prefLabel": {
-        "en": "Sociolinguistics_and_Pragmatics",
-        "de": "Sprachebenen_Soziolinguistik_Pragmatik"
+        "en": "Sociolinguistics, Pragmatics",
+        "de": "Sprachebenen, Soziolinguistik, Pragmatik"
       }
     },
     {
       "id": "https://example.org/systematik/ROM_A_261",
       "prefLabel": {
-        "en": "Special_Languages",
-        "de": "Fachsprachen_Sondersprachen"
+        "en": "Special Languages",
+        "de": "Fachsprachen, Sondersprachen"
       }
     },
     {
       "id": "https://example.org/systematik/ROM_A_271",
       "prefLabel": {
-        "en": "Language_Geography",
+        "en": "Language Geography",
         "de": "Sprachgeographie"
       }
     },
     {
       "id": "https://example.org/systematik/ROM_A_286",
       "prefLabel": {
-        "en": "Creole_language",
+        "en": "Creole language",
         "de": "Kreolisch"
       }
     },
     {
       "id": "https://example.org/systematik/ROM_A_999",
       "prefLabel": {
-        "en": "Language_Acquisition_and_Language_Teaching",
+        "en": "Language Acquisition and Language Teaching",
         "de": "Fachdidaktik"
       }
     }

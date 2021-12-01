@@ -3,10 +3,6 @@
   "type": "Concept",
   "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_F",
   "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_F",
-  "prefLabel": {
-    "en": "Italian_Literature",
-    "de": "Italienische_Literatur"
-  },
   "inScheme": {
     "id": "https://example.org/systematik/",
     "title": {

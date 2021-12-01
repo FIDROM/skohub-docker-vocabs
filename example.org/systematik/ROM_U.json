@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_U",
   "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_U",
   "prefLabel": {
-    "en": "Spanish_Literature",
-    "de": "Spanische_Literatur"
+    "en": "Spanish Literature",
+    "de": "Spanische Literatur"
   },
   "inScheme": {
     "id": "https://example.org/systematik/",
