@@ -3,11 +3,15 @@
   "type": "Concept",
   "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_C",
   "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_C",
+  "prefLabel": {
+    "en": "French_Language",
+    "de": "Französische_Sprache"
+  },
   "narrower": [
     {
       "id": "https://example.org/systematik/ROM_C_1",
       "prefLabel": {
-        "en": "Bibliographies, Reference Works, Collections"
+        "de": "Französische_Sprache/Formalgruppen"
       }
     }
   ],

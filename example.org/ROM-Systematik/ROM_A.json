@@ -4,37 +4,26 @@
   "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2FROM-Systematik%2FROM_A",
   "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2FROM-Systematik%2FROM_A",
   "prefLabel": {
-    "en": "Roman Languages",
     "de": "Romanische Sprachen"
   },
   "narrower": [
     {
-      "id": "https://example.org/ROM-Systematik/ROM_A_1",
-      "prefLabel": {
-        "en": "Bibliographies, Reference Works and Collections",
-        "de": "Bibliographien, Nachschlagewerke und Sammelwerke"
-      }
+      "id": "https://example.org/ROM-Systematik/ROM_A_1"
     },
     {
       "id": "https://example.org/ROM-Systematik/ROM_A_6",
       "prefLabel": {
-        "en": "History of Roman Linguistics and Methods",
         "de": "Wissenschaftsgeschichte, Wissenschaftliches Arbeiten, Methoden"
       }
     },
     {
       "id": "https://example.org/ROM-Systematik/ROM_A_11",
       "prefLabel": {
-        "en": "General Characteristics and History",
         "de": "Wesen und Geschichte"
       }
     },
     {
-      "id": "https://example.org/ROM-Systematik/ROM_A_21",
-      "prefLabel": {
-        "en": "Relations to other languages and translation",
-        "de": "Beziehungen zu anderen Sprachen und Übersetzung"
-      }
+      "id": "https://example.org/ROM-Systematik/ROM_A_21"
     },
     {
       "id": "https://example.org/ROM-Systematik/ROM_A_41_bis_80",
@@ -58,31 +47,18 @@
       }
     },
     {
-      "id": "https://example.org/ROM-Systematik/ROM_A_231",
-      "prefLabel": {
-        "en": "Metrics and Rhythm",
-        "de": "Metrik und Rhythmus"
-      }
+      "id": "https://example.org/ROM-Systematik/ROM_A_231"
     },
     {
-      "id": "https://example.org/ROM-Systematik/ROM_A_236",
-      "prefLabel": {
-        "en": "Language Policy and Language Maintenance",
-        "de": "Sprachpflege und Sprachpolitik"
-      }
+      "id": "https://example.org/ROM-Systematik/ROM_A_236"
     },
     {
-      "id": "https://example.org/ROM-Systematik/ROM_A_241",
-      "prefLabel": {
-        "en": "Sociolinguistics and Pragmatics",
-        "de": "Sprachebenen, Soziolinguistik und Pragmatik"
-      }
+      "id": "https://example.org/ROM-Systematik/ROM_A_241"
     },
     {
       "id": "https://example.org/ROM-Systematik/ROM_A_261",
       "prefLabel": {
-        "en": "Special Languages",
-        "de": "Fachsprachen und Sondersprachen"
+        "en": "Special Languages"
       }
     },
     {
@@ -119,11 +95,7 @@
     }
   ],
   "inScheme": {
-    "id": "https://example.org/ROM-Systematik/",
-    "title": {
-      "en": "ROM classification",
-      "de": "ROM Systematik"
-    }
+    "id": "https://example.org/ROM-Systematik/"
   },
   "topConceptOf": {
     "id": "https://example.org/ROM-Systematik/"

@@ -4,7 +4,6 @@
   "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2FROM-Systematik%2FROM_A_6",
   "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2FROM-Systematik%2FROM_A_6",
   "prefLabel": {
-    "en": "History of Roman Linguistics and Methods",
     "de": "Wissenschaftsgeschichte, Wissenschaftliches Arbeiten, Methoden"
   },
   "narrower": [
@@ -39,24 +38,18 @@
     {
       "id": "https://example.org/ROM-Systematik/ROM_A_6z",
       "prefLabel": {
-        "en": "Other Scholars",
-        "de": "Sonstige Romanistinnen"
+        "en": "Other Scholars"
       }
     }
   ],
   "broader": {
     "id": "https://example.org/ROM-Systematik/ROM_A",
     "prefLabel": {
-      "en": "Roman Languages",
       "de": "Romanische Sprachen"
     }
   },
   "inScheme": {
-    "id": "https://example.org/ROM-Systematik/",
-    "title": {
-      "en": "ROM classification",
-      "de": "ROM Systematik"
-    }
+    "id": "https://example.org/ROM-Systematik/"
   },
   "@context": {
     "@version": 1.1,

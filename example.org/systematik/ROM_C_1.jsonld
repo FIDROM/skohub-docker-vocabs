@@ -4,10 +4,14 @@
   "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_C_1",
   "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fsystematik%2FROM_C_1",
   "prefLabel": {
-    "en": "Bibliographies, Reference Works, Collections"
+    "de": "Französische_Sprache/Formalgruppen"
   },
   "broader": {
-    "id": "https://example.org/systematik/ROM_C"
+    "id": "https://example.org/systematik/ROM_C",
+    "prefLabel": {
+      "en": "French_Language",
+      "de": "Französische_Sprache"
+    }
   },
   "inScheme": {
     "id": "https://example.org/systematik/",

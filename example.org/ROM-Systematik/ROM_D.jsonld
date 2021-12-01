@@ -9,19 +9,11 @@
   },
   "narrower": [
     {
-      "id": "https://example.org/ROM-Systematik/ROM_D_1",
-      "prefLabel": {
-        "en": "Bibliographies, Reference Works and Collections",
-        "de": "Bibliographien und Nachschlagewerke"
-      }
+      "id": "https://example.org/ROM-Systematik/ROM_D_1"
     }
   ],
   "inScheme": {
-    "id": "https://example.org/ROM-Systematik/",
-    "title": {
-      "en": "ROM classification",
-      "de": "ROM Systematik"
-    }
+    "id": "https://example.org/ROM-Systematik/"
   },
   "topConceptOf": {
     "id": "https://example.org/ROM-Systematik/"

@@ -10,16 +10,11 @@
   "broader": {
     "id": "https://example.org/ROM-Systematik/ROM_A_6",
     "prefLabel": {
-      "en": "History of Roman Linguistics and Methods",
       "de": "Wissenschaftsgeschichte, Wissenschaftliches Arbeiten, Methoden"
     }
   },
   "inScheme": {
-    "id": "https://example.org/ROM-Systematik/",
-    "title": {
-      "en": "ROM classification",
-      "de": "ROM Systematik"
-    }
+    "id": "https://example.org/ROM-Systematik/"
   },
   "@context": {
     "@version": 1.1,
