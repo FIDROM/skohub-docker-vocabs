@@ -1,24 +1,24 @@
-@prefix ROM-Systematik: <https://example.org/systematik/> .
+@prefix ROM-Systematik: <https://example.org/ROM-Systematik/> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 ROM-Systematik: a skos:ConceptScheme ;
-    dct:title "classification"@en, "ROM-Systematik"@de ;
+    dct:title "ROM-Classification"@en, "ROM-Systematik"@de ;
     dct:creator "DG"@de ;
     dct:created "2021-11-27"^^xsd:date ;
     dct:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
     skos:hasTopConcept ROM-Systematik:ROM_A, ROM-Systematik:ROM_B, ROM-Systematik:ROM_C, ROM-Systematik:ROM_D, ROM-Systematik:ROM_E, ROM-Systematik:ROM_F, ROM-Systematik:ROM_U .
 
 ROM-Systematik:ROM_A a skos:Concept ;
-    skos:prefLabel "Romanische_Sprachen"@de, "Romance_Languages"@en ;
+    skos:prefLabel "Romanische Sprachen"@de, "Romance Languages"@en ;
     skos:topConceptOf ROM-Systematik: ;
     skos:exactMatch <https://d-nb.info/gnd/4115788-6> ;
     skos:exactMatch <https://catalogue.bnf.fr/ark:/12148/cb11950451w> ;
     skos:exactMatch <http://id.loc.gov/authorities/subjects/sh85114953> .
 
 ROM-Systematik:ROM_A_1 a skos:Concept ;
-    skos:prefLabel "Bibliographien, Nachschlagewerke, Sammelwerke"@de, "Bibliographies, Reference_Works, Collections"@en ; 
+    skos:prefLabel "Bibliographien, Nachschlagewerke, Sammelwerke"@de, "Bibliographies, Reference Works, Collections"@en ; 
     skos:broader ROM-Systematik:ROM_A ;
     skos:narrower ROM-Systematik:ROM_A_1a, ROM-Systematik:ROM_A_1b, ROM-Systematik:ROM_A_1d, ROM-Systematik:ROM_A_1g, ROM-Systematik:ROM_A_1k, ROM-Systematik:ROM_A_1l, ROM-Systematik:ROM_A_1p ;
     skos:inScheme ROM-Systematik: .
@@ -90,23 +90,23 @@ ROM-Systematik:ROM_A_6z a skos:Concept ;
     skos:inScheme ROM-Systematik: .
 
 ROM-Systematik:ROM_A_11 a skos:Concept ;
-    skos:prefLabel "Wesen und Geschichte"@de, "General Caracteristics and History"@en  ;
+    skos:prefLabel "Wesen und Geschichte"@de, "General Caracteristics and History"@en ;
     skos:broader ROM-Systematik:ROM_A ;
     skos:narrower ROM-Systematik:ROM_A_11a, ROM-Systematik:ROM_A_11c, ROM-Systematik:ROM_A_11e ;
     skos:inScheme ROM-Systematik: .
 
 ROM-Systematik:ROM_A_11a a skos:Concept ;
-    skos:prefLabel "Gesamtzeitraum"@de, "General Works"@de ;
+    skos:prefLabel "Gesamtzeitraum"@de, "General Works"@en ;
     skos:broader ROM-Systematik:ROM_A_11 ;
     skos:inScheme ROM-Systematik: .
 
 ROM-Systematik:ROM_A_11c a skos:Concept ;
-    skos:prefLabel "Älterer Zeitraum bis 1500"@de, "Until 1500"@de ;
+    skos:prefLabel "Älterer Zeitraum bis 1500"@de, "Until 1500"@en ;
     skos:broader ROM-Systematik:ROM_A_11 ;
     skos:inScheme ROM-Systematik: .
 
 ROM-Systematik:ROM_A_11e a skos:Concept ;
-    skos:prefLabel "Neuere Zeit ab 1600"@de, "Since 1600"@de ;
+    skos:prefLabel "Neuere Zeit ab 1600"@de, "Since 1600"@en ;
     skos:broader ROM-Systematik:ROM_A_11 ;
     skos:inScheme ROM-Systematik: .
 
@@ -136,7 +136,7 @@ ROM-Systematik:ROM_A_231 a skos:Concept ;
     skos:inScheme ROM-Systematik: .
 
 ROM-Systematik:ROM_A_236 a skos:Concept ;
-    skos:prefLabel "Sprachpflege, Sprachpolitik"@de, "Language Policy, Language Maintenance"@en  ;
+    skos:prefLabel "Sprachpflege, Sprachpolitik"@de, "Language Policy, Language Maintenance"@en ;
     skos:broader ROM-Systematik:ROM_A ;
     skos:inScheme ROM-Systematik: .
 
@@ -170,7 +170,7 @@ ROM-Systematik:ROM_B a skos:Concept ;
     skos:topConceptOf ROM-Systematik: .
 
 ROM-Systematik:ROM_C a skos:Concept ;
-    skos:prefLabel "Französische Sprache"@de, "French Language"@en;
+    skos:prefLabel "Französische Sprache"@de, "French Language"@en ;
     skos:topConceptOf ROM-Systematik: .
 
 ROM-Systematik:ROM_C_1 a skos:Concept ;
@@ -188,13 +188,13 @@ ROM-Systematik:ROM_D_1 a skos:Concept ;
     skos:inScheme ROM-Systematik: .
 
 ROM-Systematik:ROM_E a skos:Concept ;
-    skos:prefLabel "Italienische Sprache"@de, "Italian Language"@en;
+    skos:prefLabel "Italienische Sprache"@de, "Italian Language"@en ;
     skos:topConceptOf ROM-Systematik: .
     
 ROM-Systematik:ROM_F a skos:Concept ;
-    skos:prefLabel "Italienische Literatur"@de, "Italian Literature"@en;
+    skos:prefLabel "Italienische Literatur"@de, "Italian Literature"@en ;
     skos:topConceptOf ROM-Systematik: . 
 
 ROM-Systematik:ROM_U a skos:Concept ;
-    skos:prefLabel "Spanische Literatur"@de, "Spanish Literature"@en;
+    skos:prefLabel "Spanische Literatur"@de, "Spanish Literature"@en ;
     skos:topConceptOf ROM-Systematik: .
