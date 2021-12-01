@@ -121,7 +121,6 @@
   "inScheme": {
     "id": "https://example.org/systematik/",
     "title": {
-      "en": "classification",
       "de": "ROM-Systematik"
     }
   },
