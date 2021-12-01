@@ -4,7 +4,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 ROM-Systematik: a skos:ConceptScheme ;
-    dct:title "ROM-Classification"@en, "ROM-Systematik"@de ;
+    dct:title "Classification"@en, "ROM-Systematik"@de ;
     dct:creator "DG"@de ;
     dct:created "2021-11-27"^^xsd:date ;
     dct:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
@@ -111,7 +111,7 @@ ROM-Systematik:ROM_A_11e a skos:Concept ;
     skos:inScheme ROM-Systematik: .
 
 ROM-Systematik:ROM_A_21 a skos:Concept ;
-    skos:prefLabel "Beziehungen zu anderen Sprachen, Übersetzung"@de, "Relations to other languages, Translation"@en  ;
+    skos:prefLabel "Beziehungen zu anderen Sprachen, Übersetzung"@de, "Relations to other languages, Translation"@en ;
     skos:broader ROM-Systematik:ROM_A ;
     skos:inScheme ROM-Systematik: .
 
