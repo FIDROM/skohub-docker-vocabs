@@ -18,14 +18,14 @@
     {
       "id": "https://example.org/ROM-Systematik/ROM_A_11c",
       "prefLabel": {
-        "en": "Old Age until 1500",
+        "en": "Until 1500",
         "de": "Älterer Zeitraum bis 1500"
       }
     },
     {
       "id": "https://example.org/ROM-Systematik/ROM_A_11e",
       "prefLabel": {
-        "en": "New Age since 1600",
+        "en": "Since 1600",
         "de": "Neue Zeiten ab 1600"
       }
     }
@@ -33,7 +33,7 @@
   "broader": {
     "id": "https://example.org/ROM-Systematik/ROM_A",
     "prefLabel": {
-      "en": "Roman Languages",
+      "en": "Romance Languages",
       "de": "Romanische Sprachen"
     }
   },
