@@ -59,7 +59,7 @@ ROM-Systematik:ROM_A_1p a skos:Concept ;
     skos:inScheme ROM-Systematik: .
 
 ROM-Systematik:ROM_A_6 a skos:Concept ;
-    skos:prefLabel "Wissenschaftsgeschichte, Wissenschaftliches Arbeiten, Methoden"@de, "History of Romacen Linguistics and Methods"@en ;
+    skos:prefLabel "Wissenschaftsgeschichte, Wissenschaftliches Arbeiten, Methoden"@de, "History of Romance Linguistics and Methods"@en ;
     skos:broader ROM-Systematik:ROM_A ;
     skos:narrower ROM-Systematik:ROM_A_6a, ROM-Systematik:ROM_A_6d, ROM-Systematik:ROM_A_6l, ROM-Systematik:ROM_A_6s, ROM-Systematik:ROM_A_6z ;
     skos:inScheme ROM-Systematik: .
