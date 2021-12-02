@@ -1,61 +1,20 @@
 {
-  "id": "https://example.org/Systematik/ROM_A_41_bis_80",
+  "id": "https://example.org/Systematik/ROM_A_46",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2FSystematik%2FROM_A_41_bis_80",
-  "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2FSystematik%2FROM_A_41_bis_80",
+  "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2FSystematik%2FROM_A_46",
+  "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2FSystematik%2FROM_A_46",
   "prefLabel": {
-    "en": "Grammar",
-    "de": "Grammatik"
+    "en": "Phonetics, Phonology",
+    "de": "Phonetik, Phonologie"
   },
-  "narrower": [
-    {
-      "id": "https://example.org/Systematik/ROM_A_41",
-      "prefLabel": {
-        "en": "General Issues",
-        "de": "Gesamtgebiet, mehrere Teilgebiete"
-      }
-    },
-    {
-      "id": "https://example.org/Systematik/ROM_A_46",
-      "prefLabel": {
-        "en": "Phonetics, Phonology",
-        "de": "Phonetik, Phonologie"
-      }
-    },
-    {
-      "id": "https://example.org/Systematik/ROM_A_51",
-      "prefLabel": {
-        "en": "Orthography",
-        "de": "Rechtschreibung"
-      }
-    },
-    {
-      "id": "https://example.org/Systematik/ROM_A_56",
-      "prefLabel": {
-        "en": "Morphology",
-        "de": "Morphologie"
-      }
-    },
-    {
-      "id": "https://example.org/Systematik/ROM_A_61",
-      "prefLabel": {
-        "en": "Word Formation",
-        "de": "Wortbildung"
-      }
-    },
-    {
-      "id": "https://example.org/Systematik/ROM_A_66",
-      "prefLabel": {
-        "en": "Syntax",
-        "de": "Syntax"
-      }
-    }
+  "notation": [
+    "ROM A 46"
   ],
   "broader": {
-    "id": "https://example.org/Systematik/ROM_A",
+    "id": "https://example.org/Systematik/ROM_A_41_bis_80",
     "prefLabel": {
-      "en": "Romance Languages",
-      "de": "Romanische Sprachen"
+      "en": "Grammar",
+      "de": "Grammatik"
     }
   },
   "inScheme": {
