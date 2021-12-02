@@ -7,6 +7,9 @@
     "en": "Ferdinand de Saussure",
     "de": "Ferdinand de Saussure"
   },
+  "notation": [
+    "ROM A 6 s"
+  ],
   "broader": {
     "id": "https://example.org/Systematik/ROM_A_6",
     "prefLabel": {

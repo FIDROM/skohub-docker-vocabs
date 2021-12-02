@@ -7,6 +7,9 @@
     "en": "General Works",
     "de": "Allgemeines"
   },
+  "notation": [
+    "ROM A 6 a"
+  ],
   "broader": {
     "id": "https://example.org/Systematik/ROM_A_6",
     "prefLabel": {

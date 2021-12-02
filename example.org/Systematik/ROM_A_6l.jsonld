@@ -7,6 +7,9 @@
     "en": "Heinrich Lausberg",
     "de": "Heinrich Lausberg"
   },
+  "notation": [
+    "ROM A 6 l"
+  ],
   "broader": {
     "id": "https://example.org/Systematik/ROM_A_6",
     "prefLabel": {

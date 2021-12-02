@@ -7,6 +7,9 @@
     "en": "Other Scholars",
     "de": "Sonstige Romanistinnen und Romanisten"
   },
+  "notation": [
+    "ROM A 6 z"
+  ],
   "broader": {
     "id": "https://example.org/Systematik/ROM_A_6",
     "prefLabel": {
