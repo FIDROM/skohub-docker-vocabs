@@ -11,7 +11,7 @@ ROM-Systematik: a skos:ConceptScheme ;
     skos:hasTopConcept ROM-Systematik:ROM_A, ROM-Systematik:ROM_B, ROM-Systematik:ROM_C, ROM-Systematik:ROM_D, ROM-Systematik:ROM_E, ROM-Systematik:ROM_F, ROM-Systematik:ROM_U .
 
 ROM-Systematik:ROM_A a skos:Concept ;
-    skos:prefLabel "Romanische Sprachen"@de, "Roman Languages"@en ;
+    skos:prefLabel "Romanische Sprachen"@de, "Romance Languages"@en ;
     skos:exactMatch <https://d-nb.info/gnd/4115788-6> ; 
     skos:exactMatch<https://catalogue.bnf.fr/ark:/12148/cb11950451w> ;
     skos:exactMatch<http://id.loc.gov/authorities/subjects/sh85114953> ;
@@ -59,7 +59,7 @@ ROM-Systematik:ROM_A_1p a skos:Concept ;
     skos:inScheme ROM-Systematik: .
 
 ROM-Systematik:ROM_A_6 a skos:Concept ;
-    skos:prefLabel "Wissenschaftsgeschichte, Wissenschaftliches Arbeiten, Methoden"@de, "History of Roman Linguistics and Methods"@en ;
+    skos:prefLabel "Wissenschaftsgeschichte, Wissenschaftliches Arbeiten, Methoden"@de, "History of Romacen Linguistics and Methods"@en ;
     skos:broader ROM-Systematik:ROM_A ;
     skos:narrower ROM-Systematik:ROM_A_6a, ROM-Systematik:ROM_A_6d, ROM-Systematik:ROM_A_6l, ROM-Systematik:ROM_A_6s, ROM-Systematik:ROM_A_6z ;
     skos:inScheme ROM-Systematik: .
@@ -101,12 +101,12 @@ ROM-Systematik:ROM_A_11a a skos:Concept ;
     skos:inScheme ROM-Systematik: .
 
 ROM-Systematik:ROM_A_11c a skos:Concept ;
-    skos:prefLabel "Älterer Zeitraum bis 1500"@de, "Old Age until 1500"@en ;
+    skos:prefLabel "Älterer Zeitraum bis 1500"@de, "Until 1500"@en ;
     skos:broader ROM-Systematik:ROM_A_11 ;
     skos:inScheme ROM-Systematik: .
 
 ROM-Systematik:ROM_A_11e a skos:Concept ;
-    skos:prefLabel "Neue Zeiten ab 1600"@de, "New Age since 1600"@en ;
+    skos:prefLabel "Neue Zeiten ab 1600"@de, "Since 1600"@en ;
     skos:broader ROM-Systematik:ROM_A_11 ;
     skos:inScheme ROM-Systematik: .
 
@@ -166,7 +166,7 @@ ROM-Systematik:ROM_A_999 a skos:Concept ;
     skos:inScheme ROM-Systematik: .
 
 ROM-Systematik:ROM_B a skos:Concept ;
-    skos:prefLabel "Romanische Literaturen"@de, "Roman Literature"@en ;
+    skos:prefLabel "Romanische Literaturen"@de, "Romance Literature"@en ;
     skos:topConceptOf ROM-Systematik: .
 
 ROM-Systematik:ROM_C a skos:Concept ;
