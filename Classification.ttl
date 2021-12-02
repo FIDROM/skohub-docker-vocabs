@@ -130,7 +130,45 @@ Systematik:ROM_A_21 a skos:Concept ;
 Systematik:ROM_A_41_bis_80 a skos:Concept ;
     skos:prefLabel "Grammatik"@de, "Grammar"@en ;
     skos:broader Systematik:ROM_A ;
+    skos:narrower Systematik:ROM_A_41, Systematik:ROM_A_46, Systematik:ROM_A_51, Systematik:ROM_A_56, Systematik:ROM_A_61, Systematik:ROM_A_66 ;
     skos:inScheme Systematik: .
+
+Systematik:ROM_A_41 a skos:Concept ;
+    skos:prefLabel "Gesamtgebiet, mehrere Teilgebiete"@de, "General Issues"@en ;
+    skos:notation "ROM A 41" ;
+    skos:broader Systematik:ROM_A_41_bis_80 ;
+    skos:inScheme Systematik: .
+
+Systematik:ROM_A_46 a skos:Concept ;
+    skos:prefLabel "Phonetik, Phonologie"@de, "Phonetics, Phonology"@en ;
+    skos:notation "ROM A 46" ;
+    skos:broader Systematik:ROM_A_41_bis_80 ;
+    skos:inScheme Systematik: .
+
+Systematik:ROM_A_51 a skos:Concept ;
+    skos:prefLabel "Rechtschreibung"@de, "Orthography"@en ;
+    skos:notation "ROM A 51" ;
+    skos:broader Systematik:ROM_A_41_bis_80 ;
+    skos:inScheme Systematik: .
+
+Systematik:ROM_A_56 a skos:Concept ;
+    skos:prefLabel "Morphologie"@de, "Morphology"@en ;
+    skos:notation "ROM A 56" ;
+    skos:broader Systematik:ROM_A_41_bis_80 ;
+    skos:inScheme Systematik: .
+
+Systematik:ROM_A_61 a skos:Concept ;
+    skos:prefLabel "Wortbildung"@de, "Word Formation"@en ;
+    skos:notation "ROM A 61" ;
+    skos:broader Systematik:ROM_A_41_bis_80 ;
+    skos:inScheme Systematik: .
+
+Systematik:ROM_A_66 a skos:Concept ;
+    skos:prefLabel "Syntax"@de, "Syntax"@en ;
+    skos:notation "ROM A 66" ;
+    skos:broader Systematik:ROM_A_41_bis_80 ;
+    skos:inScheme Systematik: .
+
 
 Systematik:ROM_A_81_bis_140 a skos:Concept ;
     skos:prefLabel "Lexikologie"@de, "Lexicology"@en ;
