@@ -73,26 +73,31 @@ Systematik:ROM_A_6 a skos:Concept ;
 
 Systematik:ROM_A_6a a skos:Concept ;
     skos:prefLabel "Allgemeines"@de, "General Works"@en ;
+    skos:notation "ROM A 6 a" ;
     skos:broader Systematik:ROM_A_6 ;
     skos:inScheme Systematik: .
 
 Systematik:ROM_A_6d a skos:Concept ;
     skos:prefLabel "Friedrich Diez"@de, "Friedrich Diez"@en ;
+    skos:notation "ROM A 6 d" ;
     skos:broader Systematik:ROM_A_6 ;
     skos:inScheme Systematik: .
 
 Systematik:ROM_A_6l a skos:Concept ;
     skos:prefLabel "Heinrich Lausberg"@de, "Heinrich Lausberg"@en ;
+    skos:notation "ROM A 6 l" ;
     skos:broader Systematik:ROM_A_6;
     skos:inScheme Systematik: .
 
 Systematik:ROM_A_6s a skos:Concept ;
     skos:prefLabel "Ferdinand de Saussure"@de, "Ferdinand de Saussure"@en ;
+    skos:notation "ROM A 6 s" ;
     skos:broader Systematik:ROM_A_6 ;
     skos:inScheme Systematik: .
 
 Systematik:ROM_A_6z a skos:Concept ;
     skos:prefLabel "Sonstige Romanistinnen und Romanisten"@de, "Other Scholars"@en ;
+    skos:notation "ROM A 6 z" ;
     skos:broader Systematik:ROM_A_6 ;
     skos:inScheme Systematik: .
 
