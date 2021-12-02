@@ -7,6 +7,9 @@
     "en": "Dictionaries, Encyclopedias",
     "de": "Lexika"
   },
+  "notation": [
+    "ROM A 1 l"
+  ],
   "broader": {
     "id": "https://example.org/Systematik/ROM_A_1",
     "prefLabel": {

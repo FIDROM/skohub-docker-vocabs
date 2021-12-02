@@ -7,6 +7,9 @@
     "en": "Congress Reports",
     "de": "Tagungsberichte"
   },
+  "notation": [
+    "ROM A 1 g"
+  ],
   "broader": {
     "id": "https://example.org/Systematik/ROM_A_1",
     "prefLabel": {
