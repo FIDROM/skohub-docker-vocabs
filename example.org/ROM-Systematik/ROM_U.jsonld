@@ -8,7 +8,11 @@
     "de": "Spanische Literatur"
   },
   "inScheme": {
-    "id": "https://example.org/ROM-Systematik/"
+    "id": "https://example.org/ROM-Systematik/",
+    "title": {
+      "en": "ROM classification",
+      "de": "ROM Systematik"
+    }
   },
   "topConceptOf": {
     "id": "https://example.org/ROM-Systematik/"
