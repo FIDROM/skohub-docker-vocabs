@@ -65,36 +65,36 @@ Systematik:ROM_A_1p a skos:Concept ;
     skos:broader Systematik:ROM_A_1 ;
     skos:inScheme Systematik: .
 
-ROM-Systematik:ROM_A_6 a skos:Concept ;
+Systematik:ROM_A_6 a skos:Concept ;
     skos:prefLabel "Wissenschaftsgeschichte, Wissenschaftliches Arbeiten, Methoden"@de, "History of Romance Linguistics and Methods"@en ;
-    skos:broader ROM-Systematik:ROM_A ;
-    skos:narrower ROM-Systematik:ROM_A_6a, ROM-Systematik:ROM_A_6d, ROM-Systematik:ROM_A_6l, ROM-Systematik:ROM_A_6s, ROM-Systematik:ROM_A_6z ;
-    skos:inScheme ROM-Systematik: .
+    skos:broader Systematik:ROM_A ;
+    skos:narrower Systematik:ROM_A_6a, Systematik:ROM_A_6d, Systematik:ROM_A_6l, Systematik:ROM_A_6s, Systematik:ROM_A_6z ;
+    skos:inScheme Systematik: .
 
-ROM-Systematik:ROM_A_6a a skos:Concept ;
+Systematik:ROM_A_6a a skos:Concept ;
     skos:prefLabel "Allgemeines"@de, "General Works"@en ;
-    skos:broader ROM-Systematik:ROM_A_6 ;
-    skos:inScheme ROM-Systematik: .
+    skos:broader Systematik:ROM_A_6 ;
+    skos:inScheme Systematik: .
 
-ROM-Systematik:ROM_A_6d a skos:Concept ;
+Systematik:ROM_A_6d a skos:Concept ;
     skos:prefLabel "Friedrich Diez"@de, "Friedrich Diez"@en ;
-    skos:broader ROM-Systematik:ROM_A_6 ;
-    skos:inScheme ROM-Systematik: .
+    skos:broader Systematik:ROM_A_6 ;
+    skos:inScheme Systematik: .
 
-ROM-Systematik:ROM_A_6l a skos:Concept ;
+Systematik:ROM_A_6l a skos:Concept ;
     skos:prefLabel "Heinrich Lausberg"@de, "Heinrich Lausberg"@en ;
-    skos:broader ROM-Systematik:ROM_A_6;
-    skos:inScheme ROM-Systematik: .
+    skos:broader Systematik:ROM_A_6;
+    skos:inScheme Systematik: .
 
-ROM-Systematik:ROM_A_6s a skos:Concept ;
+Systematik:ROM_A_6s a skos:Concept ;
     skos:prefLabel "Ferdinand de Saussure"@de, "Ferdinand de Saussure"@en ;
-    skos:broader ROM-Systematik:ROM_A_6 ;
-    skos:inScheme ROM-Systematik: .
+    skos:broader Systematik:ROM_A_6 ;
+    skos:inScheme Systematik: .
 
-ROM-Systematik:ROM_A_6z a skos:Concept ;
+Systematik:ROM_A_6z a skos:Concept ;
     skos:prefLabel "Sonstige Romanistinnen und Romanisten"@de, "Other Scholars"@en ;
-    skos:broader ROM-Systematik:ROM_A_6 ;
-    skos:inScheme ROM-Systematik: .
+    skos:broader Systematik:ROM_A_6 ;
+    skos:inScheme Systematik: .
 
 Systematik:ROM_A_11 a skos:Concept ;
     skos:prefLabel "Wesen und Geschichte"@de, "General Caracteristics and History"@en ;
