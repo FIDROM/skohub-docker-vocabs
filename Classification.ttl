@@ -66,12 +66,12 @@ Systematik:ROM_A_6 a skos:Concept ;
 
 Systematik:ROM_A_6a a skos:Concept ;
     skos:prefLabel "Allgemeines"@de, "General Works"@en ;
-    skos:broader Systematik:ROM_A_6;
+    skos:broader Systematik:ROM_A_6 ;
     skos:inScheme Systematik: .
 
 Systematik:ROM_A_6d a skos:Concept ;
     skos:prefLabel "Friedrich Diez"@de, "Friedrich Diez"@en ;
-    skos:broader Systematik:ROM_A_6;
+    skos:broader Systematik:ROM_A_6 ;
     skos:inScheme Systematik: .
 
 Systematik:ROM_A_6l a skos:Concept ;
