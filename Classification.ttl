@@ -31,31 +31,37 @@ Systematik:ROM_A_1a a skos:Concept ;
 
 Systematik:ROM_A_1b a skos:Concept ;
     skos:prefLabel "Zeitschriften"@de, "Periodicals"@en ;
+    skos:notation "ROM A 1 b" ;
     skos:broader Systematik:ROM_A_1 ;
     skos:inScheme Systematik: .
 
 Systematik:ROM_A_1d a skos:Concept ;
     skos:prefLabel "Sammelwerke"@de, "Collections"@en ;
+    skos:notation "ROM A 1 d" ;
     skos:broader Systematik:ROM_A_1 ;
     skos:inScheme Systematik: .
 
 Systematik:ROM_A_1g a skos:Concept ;
     skos:prefLabel "Tagungsberichte"@de, "Congress Reports"@en ;
+    skos:notation "ROM A 1 g" ;
     skos:broader Systematik:ROM_A_1 ;
     skos:inScheme Systematik: .
 
 Systematik:ROM_A_1k a skos:Concept ;
     skos:prefLabel "Gesamtdarstellungen"@de, "General Works"@en ;
+    skos:notation "ROM A 1 k" ;
     skos:broader Systematik:ROM_A_1 ;
     skos:inScheme Systematik: .
 
 Systematik:ROM_A_1l a skos:Concept ;
     skos:prefLabel "Lexika"@de, "Dictionaries, Encyclopedias"@en ;
+    skos:notation "ROM A 1 l" ;
     skos:broader Systematik:ROM_A_1 ;
     skos:inScheme Systematik: .
 
 Systematik:ROM_A_1p a skos:Concept ;
     skos:prefLabel "Textsammlungen"@de, "Anthologies"@en ;
+    skos:notation "ROM A 1 p" ;
     skos:broader Systematik:ROM_A_1 ;
     skos:inScheme Systematik: .
 
