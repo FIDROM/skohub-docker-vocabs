@@ -4,7 +4,7 @@
   "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2FROM-Systematik%2FROM_A_6",
   "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2FROM-Systematik%2FROM_A_6",
   "prefLabel": {
-    "en": "History of Romacen Linguistics and Methods",
+    "en": "History of Romance Linguistics and Methods",
     "de": "Wissenschaftsgeschichte, Wissenschaftliches Arbeiten, Methoden"
   },
   "narrower": [
