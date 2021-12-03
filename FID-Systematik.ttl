@@ -12,11 +12,56 @@ FID-Systematik: a skos:ConceptScheme ;
 
 FID-Systematik:100000 a skos:Concept ;
     skos:prefLabel "Sprache allgemein"@de, "Language in general"@en ;
-    skos:narrower FID-Systematik:101050 ;
+    skos:narrower FID-Systematik:101050, FID-Systematik:101100, FID-Systematik:101200, FID-Systematik:101300, FID-Systematik:101400, FID-Systematik:101500, FID-Systematik:101600, FID-Systematik:101700, FID-Systematik:101800, FID-Systematik:101900 ;
     skos:topConceptOf FID-Systematik: .
 
 FID-Systematik:101050 a skos:Concept ;
     skos:prefLabel "Romanische Sprachen allgemein"@de, "Romance Languages in general"@en ; 
+    skos:broader FID-Systematik:100000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:101100 a skos:Concept ;
+    skos:prefLabel "Französische Sprache allgemein"@de, "French Language in general"@en ; 
+    skos:broader FID-Systematik:100000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:101200 a skos:Concept ;
+    skos:prefLabel "Galicische Sprache allgemein"@de, "Galician Language in general"@en ; 
+    skos:broader FID-Systematik:100000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:101300 a skos:Concept ;
+    skos:prefLabel "Italienische Sprache allgemein"@de, "Italian Language in general"@en ; 
+    skos:broader FID-Systematik:100000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:101400 a skos:Concept ;
+    skos:prefLabel "Katalanische Sprache allgemein"@de, "Catalan Language in general"@en ; 
+    skos:broader FID-Systematik:100000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:101500 a skos:Concept ;
+    skos:prefLabel "Okzitanische Sprache allgemein"@de, "Occitan Language in general"@en ; 
+    skos:broader FID-Systematik:100000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:101600 a skos:Concept ;
+    skos:prefLabel "Portugiesische Sprache allgemein"@de, "Portuguese Language in general"@en ; 
+    skos:broader FID-Systematik:100000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:101700 a skos:Concept ;
+    skos:prefLabel "Rätoromanische Sprache allgemein"@de, "Rhaeto-Romance Language in general"@en ; 
+    skos:broader FID-Systematik:100000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:101800 a skos:Concept ;
+    skos:prefLabel "Sardische Sprache allgemein"@de, "Sardinian Language in general"@en ; 
+    skos:broader FID-Systematik:100000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:101900 a skos:Concept ;
+    skos:prefLabel "Spanische Sprache allgemein"@de, "Spanish Language in general"@en ; 
     skos:broader FID-Systematik:100000 ;
     skos:inScheme FID-Systematik: .
 
