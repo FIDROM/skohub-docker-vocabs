@@ -7,6 +7,78 @@
     "en": "Narrative Literature",
     "de": "Epik"
   },
+  "narrower": [
+    {
+      "id": "https://example.org/FID-Systematik/204050",
+      "prefLabel": {
+        "en": "Romance Narrative Literature",
+        "de": "Romanische Epik"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/204100",
+      "prefLabel": {
+        "en": "French Narrative Literature",
+        "de": "Französische Epik"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/204200",
+      "prefLabel": {
+        "en": "Galician Narrative Literature",
+        "de": "Galicische Epik"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/204300",
+      "prefLabel": {
+        "en": "Italian Narrative Literature",
+        "de": "Italienische Epik"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/204400",
+      "prefLabel": {
+        "en": "Catalan Narrative Literature",
+        "de": "Katalanische Epik"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/204500",
+      "prefLabel": {
+        "en": "Occitan Narrative Literature",
+        "de": "Okzitanische Epik"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/204600",
+      "prefLabel": {
+        "en": "Portuguese Narrative Literature",
+        "de": "Portugiesische Epik"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/204700",
+      "prefLabel": {
+        "en": "Rhaeto-Romance Narrative Literature",
+        "de": "Rätoromanische Epik"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/204800",
+      "prefLabel": {
+        "en": "Sardinian Narrative Literature",
+        "de": "Sardische Epik"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/204900",
+      "prefLabel": {
+        "en": "Spanish Narrative Literature",
+        "de": "Spanische Epik"
+      }
+    }
+  ],
   "inScheme": {
     "id": "https://example.org/FID-Systematik/",
     "title": {

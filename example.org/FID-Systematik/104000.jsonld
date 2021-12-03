@@ -5,8 +5,80 @@
   "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2FFID-Systematik%2F104000",
   "prefLabel": {
     "en": "Varieties",
-    "de": "Sprachvarianten"
+    "de": "Sprachvarianten (historische, geographische, soziale)"
   },
+  "narrower": [
+    {
+      "id": "https://example.org/FID-Systematik/104050",
+      "prefLabel": {
+        "en": "Romance Language Varieties",
+        "de": "Romanische Sprachvarianten (historische, geographische, soziale)"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/104100",
+      "prefLabel": {
+        "en": "French Varieties",
+        "de": "Französische Sprachvarianten (historische, geographische, soziale)"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/104200",
+      "prefLabel": {
+        "en": "Galician Varieties",
+        "de": "Galicische Sprachvarianten (historische, geographische, soziale)"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/104300",
+      "prefLabel": {
+        "en": "Italian Varieties",
+        "de": "Italienische Sprachvarianten (historische, geographische, soziale)"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/104400",
+      "prefLabel": {
+        "en": "Catalan Varieties",
+        "de": "Katalanische Sprachvarianten (historische, geographische, soziale)"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/104500",
+      "prefLabel": {
+        "en": "Occitan Varieties",
+        "de": "Okzitanische Sprachvarianten (historische, geographische, soziale)"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/104600",
+      "prefLabel": {
+        "en": "Portuguese Varieties",
+        "de": "Portugiesische Sprachvarianten (historische, geographische, soziale)"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/104700",
+      "prefLabel": {
+        "en": "Rhaeto-Romance Varieties",
+        "de": "Rätoromanische Sprachvarianten (historische, geographische, soziale)"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/104800",
+      "prefLabel": {
+        "en": "Sardinian Varieties",
+        "de": "Sardische Sprachvarianten (historische, geographische, soziale)"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/104900",
+      "prefLabel": {
+        "en": "Spanish Varieties",
+        "de": "Spanische Sprachvarianten (historische, geographische, soziale)"
+      }
+    }
+  ],
   "inScheme": {
     "id": "https://example.org/FID-Systematik/",
     "title": {

@@ -7,6 +7,22 @@
     "en": "Specialized Didactics",
     "de": "Fachdidaktik und Bildung"
   },
+  "narrower": [
+    {
+      "id": "https://example.org/FID-Systematik/602000",
+      "prefLabel": {
+        "en": "Specialized Didactics",
+        "de": "Fachdidaktik"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/604000",
+      "prefLabel": {
+        "en": "Education",
+        "de": "Bildungswesen"
+      }
+    }
+  ],
   "inScheme": {
     "id": "https://example.org/FID-Systematik/",
     "title": {

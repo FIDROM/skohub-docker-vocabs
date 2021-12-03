@@ -7,6 +7,36 @@
     "en": "Media and Communication",
     "de": "Medien und Kommunikation"
   },
+  "narrower": [
+    {
+      "id": "https://example.org/FID-Systematik/401000",
+      "prefLabel": {
+        "en": "Media and Communication in general",
+        "de": "Medien und Kommunikation allgemein"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/403000",
+      "prefLabel": {
+        "en": "Film",
+        "de": "Film"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/405000",
+      "prefLabel": {
+        "en": "Press and Journalism",
+        "de": "Presse und Publizistik"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/407000",
+      "prefLabel": {
+        "en": "Broadcasting, Radio and Television",
+        "de": "Rundfunk und Fernsehen"
+      }
+    }
+  ],
   "inScheme": {
     "id": "https://example.org/FID-Systematik/",
     "title": {

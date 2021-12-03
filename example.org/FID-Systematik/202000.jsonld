@@ -7,6 +7,78 @@
     "en": "Poetry",
     "de": "Lyrik"
   },
+  "narrower": [
+    {
+      "id": "https://example.org/FID-Systematik/202050",
+      "prefLabel": {
+        "en": "Romance Poetry",
+        "de": "Romanische Lyrik"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/202100",
+      "prefLabel": {
+        "en": "French Poetry",
+        "de": "Französische Lyrik"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/202200",
+      "prefLabel": {
+        "en": "Galician Poetry",
+        "de": "Galicische Lyrik"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/202300",
+      "prefLabel": {
+        "en": "Italian Poetry",
+        "de": "Italienische Lyrik"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/202400",
+      "prefLabel": {
+        "en": "Catalan Poetry",
+        "de": "Katalanische Lyrik"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/202500",
+      "prefLabel": {
+        "en": "Occitan Poetry",
+        "de": "Okzitanische Lyrik"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/202600",
+      "prefLabel": {
+        "en": "Portuguese Poetry",
+        "de": "Portugiesische Lyrik"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/202700",
+      "prefLabel": {
+        "en": "Rhaeto-Romance Poetry",
+        "de": "Rätoromanische Lyrik"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/202800",
+      "prefLabel": {
+        "en": "Sardinian Poetry",
+        "de": "Sardische Lyrik"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/202900",
+      "prefLabel": {
+        "en": "Spanish Poetry",
+        "de": "Spanische Lyrik"
+      }
+    }
+  ],
   "inScheme": {
     "id": "https://example.org/FID-Systematik/",
     "title": {
