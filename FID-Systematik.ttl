@@ -8,10 +8,10 @@ FID-Systematik: a skos:ConceptScheme ;
     dct:creator "DG"@de ;
     dct:created "2021-12-03"^^xsd:date ;
     dct:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    skos:hasTopConcept FID-Systematik:100000, FID-Systematik:200000, FID-Systematik:400000, FID-Systematik:600000, FID-Systematik:800000 .
+    skos:hasTopConcept FID-Systematik:100000, FID-Systematik:102000, FID-Systematik:103000, FID-Systematik:104000, FID-Systematik:200000, FID-Systematik:202000, FID-Systematik:203000, FID-Systematik:204000, FID-Systematik:208000, FID-Systematik:400000, FID-Systematik:600000, FID-Systematik:800000 .
 
 FID-Systematik:100000 a skos:Concept ;
-    skos:prefLabel "Sprache"@de, "Language"@en ;
+    skos:prefLabel "Sprache allgemein"@de, "Language in general"@en ;
     skos:narrower FID-Systematik:101050 ;
     skos:topConceptOf FID-Systematik: .
 
@@ -20,8 +20,36 @@ FID-Systematik:101050 a skos:Concept ;
     skos:broader FID-Systematik:100000 ;
     skos:inScheme FID-Systematik: .
 
+FID-Systematik:102000 a skos:Concept ;
+    skos:prefLabel "Wörterbücher"@de, "Dictionaries"@en ;
+    skos:topConceptOf FID-Systematik: .
+
+FID-Systematik:103000 a skos:Concept ;
+    skos:prefLabel "Grammatik"@de, "Grammar"@en ;
+    skos:topConceptOf FID-Systematik: .
+
+FID-Systematik:104000 a skos:Concept ;
+    skos:prefLabel "Sprachvarianten"@de, "Varieties"@en ;
+    skos:topConceptOf FID-Systematik: .
+
 FID-Systematik:200000 a skos:Concept ;
-    skos:prefLabel "Literatur"@de, "Literature"@en ;
+    skos:prefLabel "Literatur allgemein"@de, "Literature in general"@en ;
+    skos:topConceptOf FID-Systematik: .
+
+FID-Systematik:202000 a skos:Concept ;
+    skos:prefLabel "Lyrik"@de, "Poetry"@en ;
+    skos:topConceptOf FID-Systematik: .
+
+FID-Systematik:203000 a skos:Concept ;
+    skos:prefLabel "Drama"@de, "Drama"@en ;
+    skos:topConceptOf FID-Systematik: .
+
+FID-Systematik:204000 a skos:Concept ;
+    skos:prefLabel "Epik"@de, "Narrative Literature"@en ;
+    skos:topConceptOf FID-Systematik: .
+
+FID-Systematik:208000 a skos:Concept ;
+    skos:prefLabel "Einzelne Autorinnen und Autoren"@de, "Authors"@en ;
     skos:topConceptOf FID-Systematik: .
 
 FID-Systematik:400000 a skos:Concept ;
