@@ -10,8 +10,8 @@
   "broader": {
     "id": "https://example.org/FID-Systematik/100000",
     "prefLabel": {
-      "en": "Language",
-      "de": "Sprache"
+      "en": "Language in general",
+      "de": "Sprache allgemein"
     }
   },
   "inScheme": {
