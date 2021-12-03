@@ -1,0 +1,37 @@
+@prefix FID-Systematik: <https://example.org/FID-Systematik/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+FID-Systematik: a skos:ConceptScheme ;
+    dct:title "FID Classification"@en, "FID Systematik"@de ;
+    dct:creator "DG"@de ;
+    dct:created "2021-12-03"^^xsd:date ;
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    skos:hasTopConcept FID-Systematik:100000, FID-Systematik:200000, FID-Systematik:400000, FID-Systematik:600000, FID-Systematik:800000 .
+
+FID-Systematik:100000 a skos:Concept ;
+    skos:prefLabel "Sprache"@de, "Language"@en ;
+    skos:narrower FID-Systematik:101050 ;
+    skos:topConceptOf FID-Systematik: .
+
+FID-Systematik:101050 a skos:Concept ;
+    skos:prefLabel "Romanische Sprachen allgemein"@de, "Romance Languages in general"@en ; 
+    skos:broader FID-Systematik:100000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:200000 a skos:Concept ;
+    skos:prefLabel "Literatur"@de, "Literature"@en ;
+    skos:topConceptOf FID-Systematik: .
+
+FID-Systematik:400000 a skos:Concept ;
+    skos:prefLabel "Medien und Kommunikation"@de, "Media and Communication"@en ;
+    skos:topConceptOf FID-Systematik: .
+
+FID-Systematik:600000 a skos:Concept ;
+    skos:prefLabel "Fachdidaktik und Bildung"@de, "Specialized Didactics"@en ;
+    skos:topConceptOf FID-Systematik: .
+
+FID-Systematik:800000 a skos:Concept ;
+    skos:prefLabel "Themen aus Kultur und Gesellschaft"@de, "Culture and Society"@en ;
+    skos:topConceptOf FID-Systematik: .
