@@ -67,7 +67,58 @@ FID-Systematik:101900 a skos:Concept ;
 
 FID-Systematik:102000 a skos:Concept ;
     skos:prefLabel "Wörterbücher"@de, "Dictionaries"@en ;
+    skos:narrower FID-Systematik:102050, FID-Systematik:102100, FID-Systematik:102200, FID-Systematik:102300, FID-Systematik:102400, FID-Systematik:102500, FID-Systematik:102600, FID-Systematik:102700, FID-Systematik:102800, FID-Systematik:102900 ;
     skos:topConceptOf FID-Systematik: .
+
+FID-Systematik:102050 a skos:Concept ;
+    skos:prefLabel "Romanische Wörterbücher"@de, "Romance Language Dictionaries"@en ; 
+    skos:broader FID-Systematik:102000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:102100 a skos:Concept ;
+    skos:prefLabel "Französische Wörterbücher"@de, "French Dictionaries"@en ; 
+    skos:broader FID-Systematik:102000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:102200 a skos:Concept ;
+    skos:prefLabel "Galicische Wörterbücher"@de, "Galician Dictionaries"@en ; 
+    skos:broader FID-Systematik:102000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:102300 a skos:Concept ;
+    skos:prefLabel "Italienische Wörterbücher"@de, "Italian Dictionaries"@en ; 
+    skos:broader FID-Systematik:102000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:102400 a skos:Concept ;
+    skos:prefLabel "Katalanische Wörterbücher"@de, "Catalan Dictionaries"@en ; 
+    skos:broader FID-Systematik:102000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:102500 a skos:Concept ;
+    skos:prefLabel "Okzitanische Wörterbücher"@de, "Occitan Dictionaries"@en ; 
+    skos:broader FID-Systematik:102000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:102600 a skos:Concept ;
+    skos:prefLabel "Portugiesische Wörterbücher"@de, "Portuguese Dictionaries"@en ; 
+    skos:broader FID-Systematik:102000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:102700 a skos:Concept ;
+    skos:prefLabel "Rätoromanische Wörterbücher"@de, "Rhaeto-Romance Dictionaries"@en ; 
+    skos:broader FID-Systematik:102000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:102800 a skos:Concept ;
+    skos:prefLabel "Sardische Wörterbücher"@de, "Sardinian Dictionaries"@en ; 
+    skos:broader FID-Systematik:102000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:102900 a skos:Concept ;
+    skos:prefLabel "Spanische Wörterbücher"@de, "Spanish Dictionaries"@en ; 
+    skos:broader FID-Systematik:102000 ;
+    skos:inScheme FID-Systematik: .
 
 FID-Systematik:103000 a skos:Concept ;
     skos:prefLabel "Grammatik"@de, "Grammar"@en ;
