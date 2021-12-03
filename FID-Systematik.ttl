@@ -542,4 +542,46 @@ FID-Systematik:604000 a skos:Concept ;
 
 FID-Systematik:800000 a skos:Concept ;
     skos:prefLabel "Themen aus Kultur und Gesellschaft"@de, "Culture and Society"@en ;
+    skos:narrower FID-Systematik:801000, FID-Systematik:803000, FID-Systematik:805400, FID-Systematik:805500, FID-Systematik:805600, FID-Systematik:805700, FID-Systematik:807000, FID-Systematik:809000 ;
     skos:topConceptOf FID-Systematik: .
+
+FID-Systematik:801000 a skos:Concept ;
+    skos:prefLabel "Kultur allgemein"@de, "Culture in general"@en ; 
+    skos:broader FID-Systematik:800000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:803000 a skos:Concept ;
+    skos:prefLabel "Biographien, Familiengeschichten"@de, "Biographies, Family Histories"@en ; 
+    skos:broader FID-Systematik:800000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:805400 a skos:Concept ;
+    skos:prefLabel "Geschlechterforschung"@de, "Gender Studies"@en ; 
+    skos:broader FID-Systematik:400000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:805500 a skos:Concept ;
+    skos:prefLabel "Jugendkultur"@de, "Youth Culture"@en ; 
+    skos:broader FID-Systematik:800000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:805600 a skos:Concept ;
+    skos:prefLabel "Kolonialismus, Postkolonialismus"@de, "Colonialism, Postcolonialism"@en ; 
+    skos:broader FID-Systematik:800000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:805700 a skos:Concept ;
+    skos:prefLabel "Migration"@de, "Migration"@en ; 
+    skos:broader FID-Systematik:800000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:807000 a skos:Concept ;
+    skos:prefLabel "Regionale Kultur"@de, "Regional Culture"@en ; 
+    skos:broader FID-Systematik:800000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:809000 a skos:Concept ;
+    skos:prefLabel "Vermischtes"@de, "Various Issues"@en ; 
+    skos:broader FID-Systematik:800000 ;
+    skos:inScheme FID-Systematik: .
+
