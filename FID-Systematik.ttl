@@ -122,39 +122,423 @@ FID-Systematik:102900 a skos:Concept ;
 
 FID-Systematik:103000 a skos:Concept ;
     skos:prefLabel "Grammatik"@de, "Grammar"@en ;
+    skos:narrower FID-Systematik:103050, FID-Systematik:103100, FID-Systematik:103200, FID-Systematik:103300, FID-Systematik:103400, FID-Systematik:103500, FID-Systematik:103600, FID-Systematik:103700, FID-Systematik:103800, FID-Systematik:103900 ;
     skos:topConceptOf FID-Systematik: .
 
+FID-Systematik:103050 a skos:Concept ;
+    skos:prefLabel "Romanische Grammatik"@de, "Romance Language Grammar"@en ; 
+    skos:broader FID-Systematik:103000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:103100 a skos:Concept ;
+    skos:prefLabel "Französische Grammatik"@de, "French Grammar"@en ; 
+    skos:broader FID-Systematik:103000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:103200 a skos:Concept ;
+    skos:prefLabel "Galicische Grammatik"@de, "Galician Grammar"@en ; 
+    skos:broader FID-Systematik:103000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:103300 a skos:Concept ;
+    skos:prefLabel "Italienische Grammatik"@de, "Italian Grammar"@en ; 
+    skos:broader FID-Systematik:103000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:103400 a skos:Concept ;
+    skos:prefLabel "Katalanische Grammatik"@de, "Catalan Grammar"@en ; 
+    skos:broader FID-Systematik:103000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:103500 a skos:Concept ;
+    skos:prefLabel "Okzitanische Grammatik"@de, "Occitan Grammar"@en ; 
+    skos:broader FID-Systematik:103000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:103600 a skos:Concept ;
+    skos:prefLabel "Portugiesische Grammatik"@de, "Portuguese Grammar"@en ; 
+    skos:broader FID-Systematik:103000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:103700 a skos:Concept ;
+    skos:prefLabel "Rätoromanische Grammatik"@de, "Rhaeto-Romance Grammar"@en ; 
+    skos:broader FID-Systematik:103000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:103800 a skos:Concept ;
+    skos:prefLabel "Sardische Grammatik"@de, "Sardinian Grammar"@en ; 
+    skos:broader FID-Systematik:103000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:103900 a skos:Concept ;
+    skos:prefLabel "Spanische Grammatik"@de, "Spanish Grammar"@en ; 
+    skos:broader FID-Systematik:103000 ;
+    skos:inScheme FID-Systematik: .
+
 FID-Systematik:104000 a skos:Concept ;
-    skos:prefLabel "Sprachvarianten"@de, "Varieties"@en ;
+    skos:prefLabel "Sprachvarianten (historische, geographische, soziale)"@de, "Varieties"@en ;
+    skos:narrower FID-Systematik:104050, FID-Systematik:104100, FID-Systematik:104200, FID-Systematik:104300, FID-Systematik:104400, FID-Systematik:104500, FID-Systematik:104600, FID-Systematik:104700, FID-Systematik:104800, FID-Systematik:104900 ;
     skos:topConceptOf FID-Systematik: .
+
+FID-Systematik:104050 a skos:Concept ;
+    skos:prefLabel "Romanische Sprachvarianten (historische, geographische, soziale)"@de, "Romance Language Varieties"@en ; 
+    skos:broader FID-Systematik:104000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:104100 a skos:Concept ;
+    skos:prefLabel "Französische Sprachvarianten (historische, geographische, soziale)"@de, "French Varieties"@en ; 
+    skos:broader FID-Systematik:104000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:104200 a skos:Concept ;
+    skos:prefLabel "Galicische Sprachvarianten (historische, geographische, soziale)"@de, "Galician Varieties"@en ; 
+    skos:broader FID-Systematik:104000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:104300 a skos:Concept ;
+    skos:prefLabel "Italienische Sprachvarianten (historische, geographische, soziale)"@de, "Italian Varieties"@en ; 
+    skos:broader FID-Systematik:104000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:104400 a skos:Concept ;
+    skos:prefLabel "Katalanische Sprachvarianten (historische, geographische, soziale)"@de, "Catalan Varieties"@en ; 
+    skos:broader FID-Systematik:104000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:104500 a skos:Concept ;
+    skos:prefLabel "Okzitanische Sprachvarianten (historische, geographische, soziale)"@de, "Occitan Varieties"@en ; 
+    skos:broader FID-Systematik:104000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:104600 a skos:Concept ;
+    skos:prefLabel "Portugiesische Sprachvarianten (historische, geographische, soziale)"@de, "Portuguese Varieties"@en ; 
+    skos:broader FID-Systematik:104000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:104700 a skos:Concept ;
+    skos:prefLabel "Rätoromanische Sprachvarianten (historische, geographische, soziale)"@de, "Rhaeto-Romance Varieties"@en ; 
+    skos:broader FID-Systematik:104000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:104800 a skos:Concept ;
+    skos:prefLabel "Sardische Sprachvarianten (historische, geographische, soziale)"@de, "Sardinian Varieties"@en ; 
+    skos:broader FID-Systematik:104000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:104900 a skos:Concept ;
+    skos:prefLabel "Spanische Sprachvarianten (historische, geographische, soziale)"@de, "Spanish Varieties"@en ; 
+    skos:broader FID-Systematik:104000 ;
+    skos:inScheme FID-Systematik: .
 
 FID-Systematik:200000 a skos:Concept ;
     skos:prefLabel "Literatur allgemein"@de, "Literature in general"@en ;
+    skos:narrower FID-Systematik:201050, FID-Systematik:201100, FID-Systematik:201200, FID-Systematik:201300, FID-Systematik:201400, FID-Systematik:201500, FID-Systematik:201600, FID-Systematik:201700, FID-Systematik:201800, FID-Systematik:201900 ;
     skos:topConceptOf FID-Systematik: .
+
+FID-Systematik:201050 a skos:Concept ;
+    skos:prefLabel "Romanische Literaturen allgemein"@de, "Romance Literatures in general"@en ; 
+    skos:broader FID-Systematik:200000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:201100 a skos:Concept ;
+    skos:prefLabel "Französische Literatur allgemein"@de, "French Literature in general"@en ; 
+    skos:broader FID-Systematik:200000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:201200 a skos:Concept ;
+    skos:prefLabel "Galicische Literatur allgemein"@de, "Galician Literature in general"@en ; 
+    skos:broader FID-Systematik:200000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:201300 a skos:Concept ;
+    skos:prefLabel "Italienische Literatur allgemein"@de, "Italian Literature in general"@en ; 
+    skos:broader FID-Systematik:200000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:201400 a skos:Concept ;
+    skos:prefLabel "Katalanische Literatur allgemein"@de, "Catalan Literature in general"@en ; 
+    skos:broader FID-Systematik:200000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:201500 a skos:Concept ;
+    skos:prefLabel "Okzitanische Literatur allgemein"@de, "Occitan Literature in general"@en ; 
+    skos:broader FID-Systematik:200000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:201600 a skos:Concept ;
+    skos:prefLabel "Portugiesische Literatur allgemein"@de, "Portuguese Literature in general"@en ; 
+    skos:broader FID-Systematik:200000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:201700 a skos:Concept ;
+    skos:prefLabel "Rätoromanische Literatur allgemein"@de, "Rhaeto-Romance Literature in general"@en ; 
+    skos:broader FID-Systematik:200000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:201800 a skos:Concept ;
+    skos:prefLabel "Sardische Literatur allgemein"@de, "Sardinian Literature in general"@en ; 
+    skos:broader FID-Systematik:200000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:201900 a skos:Concept ;
+    skos:prefLabel "Spanische Literatur allgemein"@de, "Spanish Literature in general"@en ; 
+    skos:broader FID-Systematik:200000 ;
+    skos:inScheme FID-Systematik: .
 
 FID-Systematik:202000 a skos:Concept ;
     skos:prefLabel "Lyrik"@de, "Poetry"@en ;
+    skos:narrower FID-Systematik:202050, FID-Systematik:202100, FID-Systematik:202200, FID-Systematik:202300, FID-Systematik:202400, FID-Systematik:202500, FID-Systematik:202600, FID-Systematik:202700, FID-Systematik:202800, FID-Systematik:202900 ;
     skos:topConceptOf FID-Systematik: .
+
+FID-Systematik:202050 a skos:Concept ;
+    skos:prefLabel "Romanische Lyrik"@de, "Romance Poetry"@en ; 
+    skos:broader FID-Systematik:202000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:202100 a skos:Concept ;
+    skos:prefLabel "Französische Lyrik"@de, "French Poetry"@en ; 
+    skos:broader FID-Systematik:202000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:202200 a skos:Concept ;
+    skos:prefLabel "Galicische Lyrik"@de, "Galician Poetry"@en ; 
+    skos:broader FID-Systematik:202000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:202300 a skos:Concept ;
+    skos:prefLabel "Italienische Lyrik"@de, "Italian Poetry"@en ; 
+    skos:broader FID-Systematik:202000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:202400 a skos:Concept ;
+    skos:prefLabel "Katalanische Lyrik"@de, "Catalan Poetry"@en ; 
+    skos:broader FID-Systematik:202000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:202500 a skos:Concept ;
+    skos:prefLabel "Okzitanische Lyrik"@de, "Occitan Poetry"@en ; 
+    skos:broader FID-Systematik:202000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:202600 a skos:Concept ;
+    skos:prefLabel "Portugiesische Lyrik"@de, "Portuguese Poetry"@en ; 
+    skos:broader FID-Systematik:202000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:202700 a skos:Concept ;
+    skos:prefLabel "Rätoromanische Lyrik"@de, "Rhaeto-Romance Poetry"@en ; 
+    skos:broader FID-Systematik:202000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:202800 a skos:Concept ;
+    skos:prefLabel "Sardische Lyrik"@de, "Sardinian Poetry"@en ; 
+    skos:broader FID-Systematik:202000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:202900 a skos:Concept ;
+    skos:prefLabel "Spanische Lyrik"@de, "Spanish Poetry"@en ; 
+    skos:broader FID-Systematik:202000 ;
+    skos:inScheme FID-Systematik: .
 
 FID-Systematik:203000 a skos:Concept ;
     skos:prefLabel "Drama"@de, "Drama"@en ;
+    skos:narrower FID-Systematik:203050, FID-Systematik:203100, FID-Systematik:203200, FID-Systematik:203300, FID-Systematik:203400, FID-Systematik:203500, FID-Systematik:203600, FID-Systematik:203700, FID-Systematik:203800, FID-Systematik:203900 ;
     skos:topConceptOf FID-Systematik: .
+
+FID-Systematik:203050 a skos:Concept ;
+    skos:prefLabel "Romanisches Drama"@de, "Romance Drama"@en ; 
+    skos:broader FID-Systematik:203000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:203100 a skos:Concept ;
+    skos:prefLabel "Französisches Drama"@de, "French Drama"@en ; 
+    skos:broader FID-Systematik:203000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:203200 a skos:Concept ;
+    skos:prefLabel "Galicisches Drama"@de, "Galician Drama"@en ; 
+    skos:broader FID-Systematik:203000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:203300 a skos:Concept ;
+    skos:prefLabel "Italienisches Drama"@de, "Italian Drama"@en ; 
+    skos:broader FID-Systematik:203000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:203400 a skos:Concept ;
+    skos:prefLabel "Katalanisches Drama"@de, "Catalan Drama"@en ; 
+    skos:broader FID-Systematik:203000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:203500 a skos:Concept ;
+    skos:prefLabel "Okzitanisches Drama"@de, "Occitan Drama"@en ; 
+    skos:broader FID-Systematik:203000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:203600 a skos:Concept ;
+    skos:prefLabel "Portugiesisches Drama"@de, "Portuguese Drama"@en ; 
+    skos:broader FID-Systematik:203000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:203700 a skos:Concept ;
+    skos:prefLabel "Rätoromanisches Drama"@de, "Rhaeto-Romance Drama"@en ; 
+    skos:broader FID-Systematik:203000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:203800 a skos:Concept ;
+    skos:prefLabel "Sardisches Drama"@de, "Sardinian Drama"@en ; 
+    skos:broader FID-Systematik:203000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:203900 a skos:Concept ;
+    skos:prefLabel "Spanisches Drama"@de, "Spanish Drama"@en ; 
+    skos:broader FID-Systematik:203000 ;
+    skos:inScheme FID-Systematik: .
 
 FID-Systematik:204000 a skos:Concept ;
     skos:prefLabel "Epik"@de, "Narrative Literature"@en ;
+    skos:narrower FID-Systematik:204050, FID-Systematik:204100, FID-Systematik:204200, FID-Systematik:204300, FID-Systematik:204400, FID-Systematik:204500, FID-Systematik:204600, FID-Systematik:204700, FID-Systematik:204800, FID-Systematik:204900 ;
     skos:topConceptOf FID-Systematik: .
 
+FID-Systematik:204050 a skos:Concept ;
+    skos:prefLabel "Romanische Epik"@de, "Romance Narrative Literature"@en ; 
+    skos:broader FID-Systematik:204000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:204100 a skos:Concept ;
+    skos:prefLabel "Französische Epik"@de, "French Narrative Literature"@en ; 
+    skos:broader FID-Systematik:204000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:204200 a skos:Concept ;
+    skos:prefLabel "Galicische Epik"@de, "Galician Narrative Literature"@en ; 
+    skos:broader FID-Systematik:204000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:204300 a skos:Concept ;
+    skos:prefLabel "Italienische Epik"@de, "Italian Narrative Literature"@en ; 
+    skos:broader FID-Systematik:204000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:204400 a skos:Concept ;
+    skos:prefLabel "Katalanische Epik"@de, "Catalan Narrative Literature"@en ; 
+    skos:broader FID-Systematik:204000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:204500 a skos:Concept ;
+    skos:prefLabel "Okzitanische Epik"@de, "Occitan Narrative Literature"@en ; 
+    skos:broader FID-Systematik:204000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:204600 a skos:Concept ;
+    skos:prefLabel "Portugiesische Epik"@de, "Portuguese Narrative Literature"@en ; 
+    skos:broader FID-Systematik:204000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:204700 a skos:Concept ;
+    skos:prefLabel "Rätoromanische Epik"@de, "Rhaeto-Romance Narrative Literature"@en ; 
+    skos:broader FID-Systematik:204000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:204800 a skos:Concept ;
+    skos:prefLabel "Sardische Epik"@de, "Sardinian Narrative Literature"@en ; 
+    skos:broader FID-Systematik:204000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:204900 a skos:Concept ;
+    skos:prefLabel "Spanische Epik"@de, "Spanish Narrative Literature"@en ; 
+    skos:broader FID-Systematik:204000 ;
+    skos:inScheme FID-Systematik: .
+
 FID-Systematik:208000 a skos:Concept ;
-    skos:prefLabel "Einzelne Autorinnen und Autoren"@de, "Authors"@en ;
+    skos:prefLabel "Literatur, Autorinnen und Autoren"@de, "Literature, Individual Authors"@en ;
+    skos:narrower FID-Systematik:208100, FID-Systematik:208200, FID-Systematik:208300, FID-Systematik:208400, FID-Systematik:208500, FID-Systematik:208600, FID-Systematik:208700, FID-Systematik:208800, FID-Systematik:208900 ;
     skos:topConceptOf FID-Systematik: .
+
+FID-Systematik:208100 a skos:Concept ;
+    skos:prefLabel "Französische Autorinnen und Autoren"@de, "French Authors"@en ; 
+    skos:broader FID-Systematik:208000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:208200 a skos:Concept ;
+    skos:prefLabel "Galicische Autorinnen und Autoren"@de, "Galician Authors"@en ; 
+    skos:broader FID-Systematik:208000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:208300 a skos:Concept ;
+    skos:prefLabel "Italienische Autorinnen und Autoren"@de, "Italian Authors"@en ; 
+    skos:broader FID-Systematik:208000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:208400 a skos:Concept ;
+    skos:prefLabel "Katalanische Autorinnen und Autoren"@de, "Catalan Authors"@en ; 
+    skos:broader FID-Systematik:208000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:208500 a skos:Concept ;
+    skos:prefLabel "Okzitanische Autorinnen und Autoren"@de, "Occitan Authors"@en ; 
+    skos:broader FID-Systematik:208000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:208600 a skos:Concept ;
+    skos:prefLabel "Portugiesische Autorinnen und Autoren"@de, "Portuguese Authors"@en ; 
+    skos:broader FID-Systematik:208000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:208700 a skos:Concept ;
+    skos:prefLabel "Rätoromanische Autorinnen und Autoren"@de, "Rhaeto-Romance Authors"@en ; 
+    skos:broader FID-Systematik:208000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:208800 a skos:Concept ;
+    skos:prefLabel "Sardische Autorinnen und Autoren"@de, "Sardinian Authors"@en ; 
+    skos:broader FID-Systematik:208000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:208900 a skos:Concept ;
+    skos:prefLabel "Spanische Autorinnen und Autoren"@de, "Spanish Authors"@en ; 
+    skos:broader FID-Systematik:208000 ;
+    skos:inScheme FID-Systematik: .
 
 FID-Systematik:400000 a skos:Concept ;
     skos:prefLabel "Medien und Kommunikation"@de, "Media and Communication"@en ;
+    skos:narrower FID-Systematik:401000, FID-Systematik:403000, FID-Systematik:405000, FID-Systematik:407000 ;
     skos:topConceptOf FID-Systematik: .
+
+FID-Systematik:401000 a skos:Concept ;
+    skos:prefLabel "Medien und Kommunikation allgemein"@de, "Media and Communication in general"@en ; 
+    skos:broader FID-Systematik:400000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:403000 a skos:Concept ;
+    skos:prefLabel "Film"@de, "Film"@en ; 
+    skos:broader FID-Systematik:400000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:405000 a skos:Concept ;
+    skos:prefLabel "Presse und Publizistik"@de, "Press and Journalism"@en ; 
+    skos:broader FID-Systematik:400000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:407000 a skos:Concept ;
+    skos:prefLabel "Rundfunk und Fernsehen"@de, "Broadcasting, Radio and Television"@en ; 
+    skos:broader FID-Systematik:400000 ;
+    skos:inScheme FID-Systematik: .
 
 FID-Systematik:600000 a skos:Concept ;
     skos:prefLabel "Fachdidaktik und Bildung"@de, "Specialized Didactics"@en ;
+    skos:narrower FID-Systematik:602000, FID-Systematik:604000 ;
     skos:topConceptOf FID-Systematik: .
+
+FID-Systematik:602000 a skos:Concept ;
+    skos:prefLabel "Fachdidaktik"@de, "Specialized Didactics"@en ; 
+    skos:broader FID-Systematik:600000 ;
+    skos:inScheme FID-Systematik: .
+
+FID-Systematik:604000 a skos:Concept ;
+    skos:prefLabel "Bildungswesen"@de, "Education"@en ; 
+    skos:broader FID-Systematik:600000 ;
+    skos:inScheme FID-Systematik: .
 
 FID-Systematik:800000 a skos:Concept ;
     skos:prefLabel "Themen aus Kultur und Gesellschaft"@de, "Culture and Society"@en ;
