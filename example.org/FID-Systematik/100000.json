@@ -14,6 +14,69 @@
         "en": "Romance Languages in general",
         "de": "Romanische Sprachen allgemein"
       }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/101100",
+      "prefLabel": {
+        "en": "French Language in general",
+        "de": "Französische Sprache allgemein"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/101200",
+      "prefLabel": {
+        "en": "Galician Language in general",
+        "de": "Galicische Sprache allgemein"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/101300",
+      "prefLabel": {
+        "en": "Italian Language in general",
+        "de": "Italienische Sprache allgemein"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/101400",
+      "prefLabel": {
+        "en": "Catalan Language in general",
+        "de": "Katalanische Sprache allgemein"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/101500",
+      "prefLabel": {
+        "en": "Occitan Language in general",
+        "de": "Okzitanische Sprache allgemein"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/101600",
+      "prefLabel": {
+        "en": "Portuguese Language in general",
+        "de": "Portugiesische Sprache allgemein"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/101700",
+      "prefLabel": {
+        "en": "Rhaeto-Romance Language in general",
+        "de": "Rätoromanische Sprache allgemein"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/101800",
+      "prefLabel": {
+        "en": "Sardinian Language in general",
+        "de": "Sardische Sprache allgemein"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/101900",
+      "prefLabel": {
+        "en": "Spanish Language in general",
+        "de": "Spanische Sprache allgemein"
+      }
     }
   ],
   "inScheme": {
