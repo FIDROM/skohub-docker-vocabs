@@ -7,6 +7,9 @@
     "en": "Portuguese Language in general",
     "de": "Portugiesische Sprache allgemein"
   },
+  "notation": [
+    "101600"
+  ],
   "broader": {
     "id": "https://example.org/FID-Systematik/100000",
     "prefLabel": {

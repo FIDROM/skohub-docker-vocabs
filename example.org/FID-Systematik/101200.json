@@ -7,6 +7,9 @@
     "en": "Galician Language in general",
     "de": "Galicische Sprache allgemein"
   },
+  "notation": [
+    "101200"
+  ],
   "broader": {
     "id": "https://example.org/FID-Systematik/100000",
     "prefLabel": {

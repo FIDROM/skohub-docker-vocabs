@@ -7,6 +7,9 @@
     "en": "Romance Languages in general",
     "de": "Romanische Sprachen allgemein"
   },
+  "notation": [
+    "101050"
+  ],
   "broader": {
     "id": "https://example.org/FID-Systematik/100000",
     "prefLabel": {

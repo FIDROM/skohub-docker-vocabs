@@ -7,6 +7,9 @@
     "en": "Occitan Language in general",
     "de": "Okzitanische Sprache allgemein"
   },
+  "notation": [
+    "101500"
+  ],
   "broader": {
     "id": "https://example.org/FID-Systematik/100000",
     "prefLabel": {

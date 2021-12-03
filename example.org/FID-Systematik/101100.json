@@ -7,6 +7,9 @@
     "en": "French Language in general",
     "de": "Französische Sprache allgemein"
   },
+  "notation": [
+    "101100"
+  ],
   "broader": {
     "id": "https://example.org/FID-Systematik/100000",
     "prefLabel": {

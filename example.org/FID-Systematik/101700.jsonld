@@ -7,6 +7,9 @@
     "en": "Rhaeto-Romance Language in general",
     "de": "Rätoromanische Sprache allgemein"
   },
+  "notation": [
+    "101700"
+  ],
   "broader": {
     "id": "https://example.org/FID-Systematik/100000",
     "prefLabel": {

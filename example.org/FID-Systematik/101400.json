@@ -7,6 +7,9 @@
     "en": "Catalan Language in general",
     "de": "Katalanische Sprache allgemein"
   },
+  "notation": [
+    "101400"
+  ],
   "broader": {
     "id": "https://example.org/FID-Systematik/100000",
     "prefLabel": {

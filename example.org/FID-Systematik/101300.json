@@ -7,6 +7,9 @@
     "en": "Italian Language in general",
     "de": "Italienische Sprache allgemein"
   },
+  "notation": [
+    "101300"
+  ],
   "broader": {
     "id": "https://example.org/FID-Systematik/100000",
     "prefLabel": {

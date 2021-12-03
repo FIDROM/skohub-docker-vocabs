@@ -7,6 +7,9 @@
     "en": "Spanish Language in general",
     "de": "Spanische Sprache allgemein"
   },
+  "notation": [
+    "101900"
+  ],
   "broader": {
     "id": "https://example.org/FID-Systematik/100000",
     "prefLabel": {
