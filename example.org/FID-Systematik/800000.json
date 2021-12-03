@@ -7,6 +7,64 @@
     "en": "Culture and Society",
     "de": "Themen aus Kultur und Gesellschaft"
   },
+  "narrower": [
+    {
+      "id": "https://example.org/FID-Systematik/801000",
+      "prefLabel": {
+        "en": "Culture in general",
+        "de": "Kultur allgemein"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/803000",
+      "prefLabel": {
+        "en": "Biographies, Family Histories",
+        "de": "Biographien, Familiengeschichten"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/805400",
+      "prefLabel": {
+        "en": "Gender Studies",
+        "de": "Geschlechterforschung"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/805500",
+      "prefLabel": {
+        "en": "Youth Culture",
+        "de": "Jugendkultur"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/805600",
+      "prefLabel": {
+        "en": "Colonialism, Postcolonialism",
+        "de": "Kolonialismus, Postkolonialismus"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/805700",
+      "prefLabel": {
+        "en": "Migration",
+        "de": "Migration"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/807000",
+      "prefLabel": {
+        "en": "Regional Culture",
+        "de": "Regionale Kultur"
+      }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/809000",
+      "prefLabel": {
+        "en": "Various Issues",
+        "de": "Vermischtes"
+      }
+    }
+  ],
   "inScheme": {
     "id": "https://example.org/FID-Systematik/",
     "title": {

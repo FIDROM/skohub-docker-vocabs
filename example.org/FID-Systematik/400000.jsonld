@@ -35,6 +35,13 @@
         "en": "Broadcasting, Radio and Television",
         "de": "Rundfunk und Fernsehen"
       }
+    },
+    {
+      "id": "https://example.org/FID-Systematik/805400",
+      "prefLabel": {
+        "en": "Gender Studies",
+        "de": "Geschlechterforschung"
+      }
     }
   ],
   "inScheme": {
