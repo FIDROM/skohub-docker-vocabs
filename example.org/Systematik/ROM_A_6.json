@@ -7,6 +7,9 @@
     "en": "History of Romance Linguistics and Methods",
     "de": "Wissenschaftsgeschichte, Wissenschaftliches Arbeiten, Methoden"
   },
+  "notation": [
+    "ROM A 6"
+  ],
   "narrower": [
     {
       "id": "https://example.org/Systematik/ROM_A_6a",

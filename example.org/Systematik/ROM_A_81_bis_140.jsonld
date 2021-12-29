@@ -7,6 +7,9 @@
     "en": "Lexicology",
     "de": "Lexikologie"
   },
+  "notation": [
+    "ROM A 81-140"
+  ],
   "broader": {
     "id": "https://example.org/Systematik/ROM_A",
     "prefLabel": {

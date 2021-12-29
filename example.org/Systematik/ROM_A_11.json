@@ -7,6 +7,9 @@
     "en": "General Caracteristics and History",
     "de": "Wesen und Geschichte"
   },
+  "notation": [
+    "ROM A 11"
+  ],
   "narrower": [
     {
       "id": "https://example.org/Systematik/ROM_A_11a",

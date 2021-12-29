@@ -7,6 +7,9 @@
     "en": "Sociolinguistics, Pragmatics",
     "de": "Sprachebenen, Soziolinguistik, Pragmatik"
   },
+  "notation": [
+    "ROM A 241"
+  ],
   "broader": {
     "id": "https://example.org/Systematik/ROM_A",
     "prefLabel": {

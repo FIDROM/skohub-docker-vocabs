@@ -7,6 +7,9 @@
     "en": "Grammar",
     "de": "Grammatik"
   },
+  "notation": [
+    "ROM A 41-80"
+  ],
   "narrower": [
     {
       "id": "https://example.org/Systematik/ROM_A_41",

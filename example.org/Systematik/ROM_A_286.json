@@ -7,6 +7,9 @@
     "en": "Creole language",
     "de": "Kreolisch"
   },
+  "notation": [
+    "ROM A 286"
+  ],
   "broader": {
     "id": "https://example.org/Systematik/ROM_A",
     "prefLabel": {

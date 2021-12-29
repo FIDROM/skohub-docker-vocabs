@@ -7,6 +7,9 @@
     "en": "Romance Languages",
     "de": "Romanische Sprachen"
   },
+  "notation": [
+    "ROM A"
+  ],
   "narrower": [
     {
       "id": "https://example.org/Systematik/ROM_A_1",

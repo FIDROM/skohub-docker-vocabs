@@ -7,6 +7,9 @@
     "en": "Dictionaries",
     "de": "Wörterbücher"
   },
+  "notation": [
+    "ROM A 141"
+  ],
   "broader": {
     "id": "https://example.org/Systematik/ROM_A",
     "prefLabel": {

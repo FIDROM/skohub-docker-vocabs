@@ -7,6 +7,9 @@
     "en": "Bibliographies, Reference Works, Collections",
     "de": "Bibliographien, Nachschlagewerke, Sammelwerke"
   },
+  "notation": [
+    "ROM A 1"
+  ],
   "narrower": [
     {
       "id": "https://example.org/Systematik/ROM_A_1a",

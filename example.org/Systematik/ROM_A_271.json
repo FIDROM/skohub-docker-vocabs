@@ -7,6 +7,9 @@
     "en": "Language Geography",
     "de": "Sprachgeographie"
   },
+  "notation": [
+    "ROM A 271"
+  ],
   "broader": {
     "id": "https://example.org/Systematik/ROM_A",
     "prefLabel": {

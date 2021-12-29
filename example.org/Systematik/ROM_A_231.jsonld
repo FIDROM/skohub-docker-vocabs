@@ -7,6 +7,9 @@
     "en": "Metrics, Rhythm",
     "de": "Metrik, Rhythmus"
   },
+  "notation": [
+    "ROM A 231"
+  ],
   "broader": {
     "id": "https://example.org/Systematik/ROM_A",
     "prefLabel": {

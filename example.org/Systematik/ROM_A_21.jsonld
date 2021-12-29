@@ -7,6 +7,9 @@
     "en": "Relations to other languages, Translation",
     "de": "Beziehungen zu anderen Sprachen, Übersetzung"
   },
+  "notation": [
+    "ROM A 21"
+  ],
   "broader": {
     "id": "https://example.org/Systematik/ROM_A",
     "prefLabel": {

@@ -7,6 +7,9 @@
     "en": "Language Acquisition and Language Teaching",
     "de": "Fachdidaktik"
   },
+  "notation": [
+    "ROM A 999"
+  ],
   "broader": {
     "id": "https://example.org/Systematik/ROM_A",
     "prefLabel": {

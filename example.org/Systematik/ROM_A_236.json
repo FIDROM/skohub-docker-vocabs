@@ -7,6 +7,9 @@
     "en": "Language Policy, Language Maintenance",
     "de": "Sprachpflege, Sprachpolitik"
   },
+  "notation": [
+    "ROM A 236"
+  ],
   "broader": {
     "id": "https://example.org/Systematik/ROM_A",
     "prefLabel": {
