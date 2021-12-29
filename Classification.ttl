@@ -13,6 +13,7 @@ Systematik: a skos:ConceptScheme ;
 Systematik:ROM_A a skos:Concept ;
     skos:prefLabel "Romanische Sprachen"@de, "Romance Languages"@en ;
     skos:topConceptOf Systematik: ;
+    skos:notation "ROM A" ;
     skos:exactMatch <https://d-nb.info/gnd/4115788-6> ;
     skos:exactMatch <https://catalogue.bnf.fr/ark:/12148/cb11950451w> ;
     skos:exactMatch <http://id.loc.gov/authorities/subjects/sh85114953> ;
@@ -20,6 +21,7 @@ Systematik:ROM_A a skos:Concept ;
 
 Systematik:ROM_A_1 a skos:Concept ;
     skos:prefLabel "Bibliographien, Nachschlagewerke, Sammelwerke"@de, "Bibliographies, Reference Works, Collections"@en ; 
+    skos:notation "ROM A 1" ;
     skos:broader Systematik:ROM_A ;
     skos:narrower Systematik:ROM_A_1a, Systematik:ROM_A_1b, Systematik:ROM_A_1d, Systematik:ROM_A_1g, Systematik:ROM_A_1k, Systematik:ROM_A_1l, Systematik:ROM_A_1p ;
     skos:inScheme Systematik: .
@@ -68,6 +70,7 @@ Systematik:ROM_A_1p a skos:Concept ;
 
 Systematik:ROM_A_6 a skos:Concept ;
     skos:prefLabel "Wissenschaftsgeschichte, Wissenschaftliches Arbeiten, Methoden"@de, "History of Romance Linguistics and Methods"@en ;
+    skos:notation "ROM A 6" ;
     skos:broader Systematik:ROM_A ;
     skos:narrower Systematik:ROM_A_6a, Systematik:ROM_A_6d, Systematik:ROM_A_6l, Systematik:ROM_A_6s, Systematik:ROM_A_6z ;
     skos:inScheme Systematik: .
@@ -104,6 +107,7 @@ Systematik:ROM_A_6z a skos:Concept ;
 
 Systematik:ROM_A_11 a skos:Concept ;
     skos:prefLabel "Wesen und Geschichte"@de, "General Caracteristics and History"@en ;
+    skos:notation "ROM A 11" ;
     skos:broader Systematik:ROM_A ;
     skos:narrower Systematik:ROM_A_11a, Systematik:ROM_A_11c, Systematik:ROM_A_11e ;
     skos:inScheme Systematik: .
@@ -125,11 +129,13 @@ Systematik:ROM_A_11e a skos:Concept ;
 
 Systematik:ROM_A_21 a skos:Concept ;
     skos:prefLabel "Beziehungen zu anderen Sprachen, Übersetzung"@de, "Relations to other languages, Translation"@en ;
+    skos:notation "ROM A 21" ;
     skos:broader Systematik:ROM_A ;
     skos:inScheme Systematik: .
 
 Systematik:ROM_A_41_bis_80 a skos:Concept ;
     skos:prefLabel "Grammatik"@de, "Grammar"@en ;
+    skos:notation "ROM A 41-80" ;
     skos:broader Systematik:ROM_A ;
     skos:narrower Systematik:ROM_A_41, Systematik:ROM_A_46, Systematik:ROM_A_51, Systematik:ROM_A_56, Systematik:ROM_A_61, Systematik:ROM_A_66 ;
     skos:inScheme Systematik: .
@@ -170,49 +176,57 @@ Systematik:ROM_A_66 a skos:Concept ;
     skos:broader Systematik:ROM_A_41_bis_80 ;
     skos:inScheme Systematik: .
 
-
 Systematik:ROM_A_81_bis_140 a skos:Concept ;
     skos:prefLabel "Lexikologie"@de, "Lexicology"@en ;
+    skos:notation "ROM A 81-140" ;
     skos:broader Systematik:ROM_A ;
     skos:inScheme Systematik: .
 
 Systematik:ROM_A_141 a skos:Concept ;
     skos:prefLabel "Wörterbücher"@de, "Dictionaries"@en ;
+    skos:notation "ROM A 141" ;
     skos:broader Systematik:ROM_A ;
     skos:inScheme Systematik: .
 
 Systematik:ROM_A_231 a skos:Concept ;
     skos:prefLabel "Metrik, Rhythmus"@de, "Metrics, Rhythm"@en ;
+    skos:notation "ROM A 231" ;
     skos:broader Systematik:ROM_A ;
     skos:inScheme Systematik: .
 
 Systematik:ROM_A_236 a skos:Concept ;
     skos:prefLabel "Sprachpflege, Sprachpolitik"@de, "Language Policy, Language Maintenance"@en ;
+    skos:notation "ROM A 236" ;
     skos:broader Systematik:ROM_A ;
     skos:inScheme Systematik: .
 
 Systematik:ROM_A_241 a skos:Concept ;
     skos:prefLabel "Sprachebenen, Soziolinguistik, Pragmatik"@de, "Sociolinguistics, Pragmatics"@en ;
+    skos:notation "ROM A 241" ;
     skos:broader Systematik:ROM_A ;
     skos:inScheme Systematik: .
 
 Systematik:ROM_A_261 a skos:Concept ;
     skos:prefLabel "Fachsprachen, Sondersprachen"@de, "Special Languages"@en ;
+    skos:notation "ROM A 261" ;
     skos:broader Systematik:ROM_A ;
     skos:inScheme Systematik: .
 
 Systematik:ROM_A_271 a skos:Concept ;
     skos:prefLabel "Sprachgeographie"@de, "Language Geography"@en ;
+    skos:notation "ROM A 271" ;
     skos:broader Systematik:ROM_A ;
     skos:inScheme Systematik: .
 
 Systematik:ROM_A_286 a skos:Concept ;
     skos:prefLabel "Kreolisch"@de, "Creole language"@en ;
+    skos:notation "ROM A 286" ;
     skos:broader Systematik:ROM_A ;
     skos:inScheme Systematik: .
 
 Systematik:ROM_A_999 a skos:Concept ;
     skos:prefLabel "Fachdidaktik"@de, "Language Acquisition and Language Teaching"@en ;
+    skos:notation "ROM A 999" ;
     skos:broader Systematik:ROM_A ;
     skos:inScheme Systematik: .
 
