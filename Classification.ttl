@@ -114,16 +114,19 @@ Systematik:ROM_A_11 a skos:Concept ;
 
 Systematik:ROM_A_11a a skos:Concept ;
     skos:prefLabel "Gesamtzeitraum"@de, "General Works"@en ;
+    skos:notation "ROM A 11 a" ;
     skos:broader Systematik:ROM_A_11 ;
     skos:inScheme Systematik: .
 
 Systematik:ROM_A_11c a skos:Concept ;
     skos:prefLabel "Älterer Zeitraum bis 1500"@de, "Until 1500"@en ;
+    skos:notation "ROM A 11 c" ;
     skos:broader Systematik:ROM_A_11 ;
     skos:inScheme Systematik: .
 
 Systematik:ROM_A_11e a skos:Concept ;
     skos:prefLabel "Neuere Zeit ab 1600"@de, "Since 1600"@en ;
+    skos:notation "ROM A 11 e" ;
     skos:broader Systematik:ROM_A_11 ;
     skos:inScheme Systematik: .
 
@@ -131,6 +134,43 @@ Systematik:ROM_A_21 a skos:Concept ;
     skos:prefLabel "Beziehungen zu anderen Sprachen, Übersetzung"@de, "Relations to other languages, Translation"@en ;
     skos:notation "ROM A 21" ;
     skos:broader Systematik:ROM_A ;
+    skos:narrower Systematik:ROM_A_21a, Systematik:ROM_A_21c, Systematik:ROM_A_21d, Systematik:ROM_A_21k, Systematik:ROM_A_21s, Systematik:ROM_A_21z ;
+    skos:inScheme Systematik: .
+
+Systematik:ROM_A_21a a skos:Concept ;
+    skos:prefLabel "Allgemeines, Übersetzung"@de, "Relations to other languages in general, Translation"@en ;
+    skos:notation "ROM A 21 a" ;
+    skos:broader Systematik:ROM_A_21 ;
+    skos:inScheme Systematik: .
+
+Systematik:ROM_A_21c a skos:Concept ;
+    skos:prefLabel "Germanische Sprachen insgesamt"@de, "Germanic Languages"@en ;
+    skos:notation "ROM A 21 c" ;
+    skos:broader Systematik:ROM_A_21 ;
+    skos:inScheme Systematik: .
+
+Systematik:ROM_A_21d a skos:Concept ;
+    skos:prefLabel "Deutsch"@de, "German"@en ;
+    skos:notation "ROM A 21 d" ;
+    skos:broader Systematik:ROM_A_21 ;
+    skos:inScheme Systematik: .
+
+Systematik:ROM_A_21k a skos:Concept ;
+    skos:prefLabel "Keltische Sprachen"@de, "Celtic Languages"@en ;
+    skos:notation "ROM A 21 k" ;
+    skos:broader Systematik:ROM_A_21 ;
+    skos:inScheme Systematik: .
+
+Systematik:ROM_A_21s a skos:Concept ;
+    skos:prefLabel "Slawische Sprachen"@de, "Slavic Languages"@en ;
+    skos:notation "ROM A 21 s" ;
+    skos:broader Systematik:ROM_A_21 ;
+    skos:inScheme Systematik: .
+
+Systematik:ROM_A_21z a skos:Concept ;
+    skos:prefLabel "Sonstige Sprachen"@de, "Other languages"@en ;
+    skos:notation "ROM A 21 z" ;
+    skos:broader Systematik:ROM_A_21 ;
     skos:inScheme Systematik: .
 
 Systematik:ROM_A_41_bis_80 a skos:Concept ;
