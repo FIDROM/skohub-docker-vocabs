@@ -7,6 +7,9 @@
     "en": "Since 1600",
     "de": "Neuere Zeit ab 1600"
   },
+  "notation": [
+    "ROM A 11 e"
+  ],
   "broader": {
     "id": "https://example.org/Systematik/ROM_A_11",
     "prefLabel": {

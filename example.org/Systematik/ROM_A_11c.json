@@ -7,6 +7,9 @@
     "en": "Until 1500",
     "de": "Älterer Zeitraum bis 1500"
   },
+  "notation": [
+    "ROM A 11 c"
+  ],
   "broader": {
     "id": "https://example.org/Systematik/ROM_A_11",
     "prefLabel": {

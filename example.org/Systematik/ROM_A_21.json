@@ -10,6 +10,50 @@
   "notation": [
     "ROM A 21"
   ],
+  "narrower": [
+    {
+      "id": "https://example.org/Systematik/ROM_A_21a",
+      "prefLabel": {
+        "en": "Relations to other languages in general, Translation",
+        "de": "Allgemeines, Übersetzung"
+      }
+    },
+    {
+      "id": "https://example.org/Systematik/ROM_A_21c",
+      "prefLabel": {
+        "en": "Germanic Languages",
+        "de": "Germanische Sprachen insgesamt"
+      }
+    },
+    {
+      "id": "https://example.org/Systematik/ROM_A_21d",
+      "prefLabel": {
+        "en": "German",
+        "de": "Deutsch"
+      }
+    },
+    {
+      "id": "https://example.org/Systematik/ROM_A_21k",
+      "prefLabel": {
+        "en": "Celtic Languages",
+        "de": "Keltische Sprachen"
+      }
+    },
+    {
+      "id": "https://example.org/Systematik/ROM_A_21s",
+      "prefLabel": {
+        "en": "Slavic Languages",
+        "de": "Slawische Sprachen"
+      }
+    },
+    {
+      "id": "https://example.org/Systematik/ROM_A_21z",
+      "prefLabel": {
+        "en": "Other languages",
+        "de": "Sonstige Sprachen"
+      }
+    }
+  ],
   "broader": {
     "id": "https://example.org/Systematik/ROM_A",
     "prefLabel": {
