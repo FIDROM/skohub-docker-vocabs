@@ -110,6 +110,14 @@
       }
     }
   ],
+  "broadMatch": [
+    {
+      "id": "http://uri.gbv.de/terminology/bk/18.20"
+    },
+    {
+      "id": "http://uri.gbv.de/terminology/bk/17.06"
+    }
+  ],
   "exactMatch": [
     {
       "id": "https://d-nb.info/gnd/4115788-6"
