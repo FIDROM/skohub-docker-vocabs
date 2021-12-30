@@ -17,6 +17,8 @@ Systematik:ROM_A a skos:Concept ;
     skos:exactMatch <https://d-nb.info/gnd/4115788-6> ;
     skos:exactMatch <https://catalogue.bnf.fr/ark:/12148/cb11950451w> ;
     skos:exactMatch <http://id.loc.gov/authorities/subjects/sh85114953> ;
+    skos:broadMatch <http://uri.gbv.de/terminology/bk/18.20> ;
+    skos:broadMatch <http://uri.gbv.de/terminology/bk/17.06> ;
     skos:note <https://bonnus.ulb.uni-bonn.de/Summon/Search?join=AND&bool0[]=AND&lookfor0[]=ROM%20A*&type0[]=ClassificationCodes_ULB&filter[]=SourceType:Library+Catalog&submit=Suchen> .
 
 Systematik:ROM_A_1 a skos:Concept ;
