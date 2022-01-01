@@ -276,6 +276,129 @@ Systematik:ROM_B a skos:Concept ;
     skos:prefLabel "Romanische Literaturen"@de, "Romance Literatures"@en ;
     skos:topConceptOf Systematik: .
 
+Systematik:ROM_B_1 a skos:Concept ;
+    skos:prefLabel "Bibliographien, Nachschlagewerke, Sammelwerke"@de, "Bibliographies, Reference Works, Collections"@en ; 
+    skos:notation "ROM B 1" ;
+    skos:broader Systematik:ROM_B ;
+    skos:narrower Systematik:ROM_B_1a, Systematik:ROM_B_1b, Systematik:ROM_B_1d, Systematik:ROM_B_1g, Systematik:ROM_B_1l ;
+    skos:inScheme Systematik: .
+
+Systematik:ROM_B_1a a skos:Concept ;
+    skos:prefLabel "Bibliographisches"@de, "Bibliographies"@en ;
+    skos:notation "ROM B 1 a" ;
+    skos:broader Systematik:ROM_B_1 ;
+    skos:inScheme Systematik: .
+
+Systematik:ROM_B_1b a skos:Concept ;
+    skos:prefLabel "Zeitschriften"@de, "Periodicals"@en ;
+    skos:notation "ROM B 1 b" ;
+    skos:broader Systematik:ROM_B_1 ;
+    skos:inScheme Systematik: .
+
+Systematik:ROM_B_1d a skos:Concept ;
+    skos:prefLabel "Sammelwerke"@de, "Collections"@en ;
+    skos:notation "ROM B 1 d" ;
+    skos:broader Systematik:ROM_B_1 ;
+   skos:narrower Systematik:ROM_B_1da, Systematik:ROM_B_1db, Systematik:ROM_B_1dc ;
+    skos:inScheme Systematik: .
+
+Systematik:ROM_B_1da a skos:Concept ;
+    skos:prefLabel "Aufsätze, Vorträge"@de, "Articles, Essays, Conferences"@en ;
+    skos:notation "ROM B 1 da" ;
+    skos:broader Systematik:ROM_B_1d ;
+    skos:inScheme Systematik: .
+
+Systematik:ROM_B_1db a skos:Concept ;
+    skos:prefLabel "Festschriften, Gedenkschriften"@de, "Festschrift"@en ;
+    skos:notation "ROM B 1 db" ;
+    skos:broader Systematik:ROM_B_1d ;
+    skos:inScheme Systematik: .
+
+Systematik:ROM_B_1dc a skos:Concept ;
+    skos:prefLabel "Serien"@de, "Series"@en ;
+    skos:notation "ROM B 1 dc" ;
+    skos:broader Systematik:ROM_B_1d ;
+    skos:inScheme Systematik: .
+
+Systematik:ROM_B_1g a skos:Concept ;
+    skos:prefLabel "Tagungsberichte"@de, "Congress Reports"@en ;
+    skos:notation "ROM B 1 g" ;
+    skos:broader Systematik:ROM_B_1 ;
+    skos:inScheme Systematik: .
+
+Systematik:ROM_B_1l a skos:Concept ;
+    skos:prefLabel "Lexika, Zitatensammlungen"@de, "Dictionaries, Encyclopedias, Collections of Quotations"@en ;
+    skos:notation "ROM B 1 l" ;
+    skos:broader Systematik:ROM_B_1 ;
+    skos:inScheme Systematik: .
+
+Systematik:ROM_B_11 a skos:Concept ;
+    skos:prefLabel "Literaturwissenschaft, Literaturgeschichtsschreibung"@de, "Literary Studies, LiteraryHistory"@en ;
+    skos:notation "ROM B 11" ;
+    skos:broader Systematik:ROM_B ;
+    skos:narrower Systematik:ROM_B_11a, Systematik:ROM_B_11o, Systematik:ROM_B_11p, Systematik:ROM_B_11q, Systematik:ROM_B_11s, Systematik:ROM_B_11t, Systematik:ROM_B_11v, Systematik:ROM_B_11w, Systematik:ROM_B_11x ;
+    skos:inScheme Systematik: .
+
+Systematik:ROM_B_11a a skos:Concept ;
+    skos:prefLabel "Einführungen"@de, "Introductory Works"@en ;
+    skos:notation "ROM B 11 a" ;
+    skos:broader Systematik:ROM_B_11 ;
+    skos:inScheme Systematik: .
+
+Systematik:ROM_B_11o a skos:Concept ;
+    skos:prefLabel "Geschichte der Literaturwissenschaft, Geschichte der Literaturgeschichtsschreibung"@de, "History of Literary Studies, History of Literary History"@en ;
+    skos:notation "ROM B 11 o" ;
+    skos:broader Systematik:ROM_B_11 ;
+    skos:inScheme Systematik: .
+
+Systematik:ROM_B_11p a skos:Concept ;
+    skos:prefLabel "Erich Auerbach"@de, "Erich Auerbach"@en ;
+    skos:notation "ROM B 11 p" ;
+    skos:broader Systematik:ROM_B_11 ;
+    skos:inScheme Systematik: .
+
+Systematik:ROM_B_11q a skos:Concept ;
+    skos:prefLabel "Ernst Robert Curtius"@de, "Ernst Robert Curtius"@en ;
+    skos:notation "ROM B 11 q" ;
+    skos:broader Systematik:ROM_B_11 ;
+    skos:inScheme Systematik: .
+
+Systematik:ROM_B_11s a skos:Concept ;
+    skos:prefLabel "Victor Klemperer"@de, "Victor Klemperer"@en ;
+    skos:notation "ROM B 11 s" ;
+    skos:broader Systematik:ROM_B_11 ;
+    skos:inScheme Systematik: .
+
+Systematik:ROM_B_11t a skos:Concept ;
+    skos:prefLabel "Werner Krauss"@de, "Werner Krauss"@en ;
+    skos:notation "ROM B 11 t" ;
+    skos:broader Systematik:ROM_B_11 ;
+    skos:inScheme Systematik: .
+
+Systematik:ROM_B_11v a skos:Concept ;
+    skos:prefLabel "Leo Spitzer"@de, "Leo Spitzer"@en ;
+    skos:notation "ROM B 11 v" ;
+    skos:broader Systematik:ROM_B_11 ;
+    skos:inScheme Systematik: .
+
+Systematik:ROM_B_11w a skos:Concept ;
+    skos:prefLabel "Karl Vossler"@de, "Karl Vossler"@en ;
+    skos:notation "ROM B 11 w" ;
+    skos:broader Systematik:ROM_B_11 ;
+    skos:inScheme Systematik: .
+
+Systematik:ROM_B_11x a skos:Concept ;
+    skos:prefLabel "Sonstige Literaturwissenschaftler, sonstíge Literaturkritiker"@de, "Other Philolgists, other Literary Critics"@en ;
+    skos:notation "ROM B 11 x" ;
+    skos:broader Systematik:ROM_B_11 ;
+    skos:inScheme Systematik: .
+
+Systematik:ROM_B_21 a skos:Concept ;
+    skos:prefLabel "Literaturkritik"@de, "Literary Criticism"@en ;
+    skos:notation "ROM B 21" ;
+    skos:broader Systematik:ROM_B ;
+    skos:inScheme Systematik: .
+
 Systematik:ROM_C a skos:Concept ;
     skos:prefLabel "Französische Sprache"@de, "French Language"@en ;
     skos:topConceptOf Systematik: .
