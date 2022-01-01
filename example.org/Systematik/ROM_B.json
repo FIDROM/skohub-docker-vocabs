@@ -7,6 +7,29 @@
     "en": "Romance Literatures",
     "de": "Romanische Literaturen"
   },
+  "narrower": [
+    {
+      "id": "https://example.org/Systematik/ROM_B_1",
+      "prefLabel": {
+        "en": "Bibliographies, Reference Works, Collections",
+        "de": "Bibliographien, Nachschlagewerke, Sammelwerke"
+      }
+    },
+    {
+      "id": "https://example.org/Systematik/ROM_B_11",
+      "prefLabel": {
+        "en": "Literary Studies, LiteraryHistory",
+        "de": "Literaturwissenschaft, Literaturgeschichtsschreibung"
+      }
+    },
+    {
+      "id": "https://example.org/Systematik/ROM_B_21",
+      "prefLabel": {
+        "en": "Literary Criticism",
+        "de": "Literaturkritik"
+      }
+    }
+  ],
   "inScheme": {
     "id": "https://example.org/Systematik/",
     "title": {
